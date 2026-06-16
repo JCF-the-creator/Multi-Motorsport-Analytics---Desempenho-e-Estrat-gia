@@ -1,0 +1,322 @@
+[
+    {
+        "POS": "(1)UTU",
+        "TEMPO": "01:55:12",
+        "PILOTO": "BRUNO VARELA (SP)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Varela Can-Am M. Energy",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:55:12",
+        "DIF_LIDER": "",
+        "DIF_ANTERIOR": ""
+    },
+    {
+        "POS": "(2)UTU",
+        "TEMPO": "01:55:50",
+        "PILOTO": "CONRADO MATSUMOTO (MS)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Cotton Racing",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:55:50",
+        "DIF_LIDER": "00:00:37",
+        "DIF_ANTERIOR": ""
+    },
+    {
+        "POS": "(3)UTU",
+        "TEMPO": "01:56:09",
+        "PILOTO": "ANDRE HORT (SC)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Mh Racing -Motortek - Hps Racing",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:56:09",
+        "DIF_LIDER": "00:00:57",
+        "DIF_ANTERIOR": "00:00:19"
+    },
+    {
+        "POS": "(1)UT1",
+        "TEMPO": "01:56:21",
+        "PILOTO": "KAIQUE BENTIVOGLIO (SP)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Polaris One",
+        "PENAL": "00:00:03",
+        "BONUS": "",
+        "TOTAL": "01:56:24",
+        "DIF_LIDER": "00:01:12",
+        "DIF_ANTERIOR": "00:00:15"
+    },
+    {
+        "POS": "(1)UTR",
+        "TEMPO": "01:57:21",
+        "PILOTO": "THIAGO TORRES (SP)",
+        "VEICULO": "EDUARDO SHIGA (SP)",
+        "EQUIPE": "Can-Am Maverick R",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:57:21",
+        "DIF_LIDER": "00:02:09",
+        "DIF_ANTERIOR": "00:00:56"
+    },
+    {
+        "POS": "(2)UT1",
+        "TEMPO": "01:57:44",
+        "PILOTO": "RICARDO GALLI (SP)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Cotton Racing",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:57:44",
+        "DIF_LIDER": "00:02:32",
+        "DIF_ANTERIOR": "00:00:23"
+    },
+    {
+        "POS": "(3)UT1",
+        "TEMPO": "01:57:49",
+        "PILOTO": "MARCUS COTTON (SP)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Cotton Racing / Polaris Factory Racing",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:57:49",
+        "DIF_LIDER": "00:02:36",
+        "DIF_ANTERIOR": "00:00:04"
+    },
+    {
+        "POS": "(2)UTR",
+        "TEMPO": "01:58:55",
+        "PILOTO": "REINALDO VARELA (SP)",
+        "VEICULO": "TULIO TANIGUCHI (SP)",
+        "EQUIPE": "Can-Am Maverick R",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:58:55",
+        "DIF_LIDER": "00:03:43",
+        "DIF_ANTERIOR": "00:01:06"
+    },
+    {
+        "POS": "(1)UT3",
+        "TEMPO": "01:58:58",
+        "PILOTO": "RODRIGO MATSUMOTO (MS)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Cotton Racing",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:58:58",
+        "DIF_LIDER": "00:03:46",
+        "DIF_ANTERIOR": "00:00:02"
+    },
+    {
+        "POS": "(3)UTR",
+        "TEMPO": "01:58:59",
+        "PILOTO": "GABRIEL CESTARI (MG)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Cotton Racing / Ghia Motorsports",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:58:59",
+        "DIF_LIDER": "00:03:47",
+        "DIF_ANTERIOR": "00:00:01"
+    },
+    {
+        "POS": "(1)UT2",
+        "TEMPO": "01:59:04",
+        "PILOTO": "VANDERLEI RABI (SP)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Cotton Racing",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:59:04",
+        "DIF_LIDER": "00:03:52",
+        "DIF_ANTERIOR": "00:00:04"
+    },
+    {
+        "POS": "(4)UTU",
+        "TEMPO": "01:59:58",
+        "PILOTO": "PARLEY FIAMONCINI (SC)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "299 Racing",
+        "PENAL": "00:01:00",
+        "BONUS": "",
+        "TOTAL": "02:00:58",
+        "DIF_LIDER": "00:05:46",
+        "DIF_ANTERIOR": "00:01:54"
+    },
+    {
+        "POS": "(2)UT3",
+        "TEMPO": "01:58:58",
+        "PILOTO": "CAIO ABUJAMRA (SP)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Gc Rally Team",
+        "PENAL": "00:03:00",
+        "BONUS": "",
+        "TOTAL": "02:01:58",
+        "DIF_LIDER": "00:06:46",
+        "DIF_ANTERIOR": "00:01:00"
+    },
+    {
+        "POS": "(1)UDB",
+        "TEMPO": "02:01:48",
+        "PILOTO": "RICARDO SANTOS (SP)",
+        "VEICULO": "ROBSON SCHUINKA (PR)",
+        "EQUIPE": "Can-Am Maverick X3",
+        "PENAL": "00:00:18",
+        "BONUS": "",
+        "TOTAL": "02:02:06",
+        "DIF_LIDER": "00:06:54",
+        "DIF_ANTERIOR": "00:00:07"
+    },
+    {
+        "POS": "01:00:58.48\n(18)",
+        "PILOTO": "JEFFERSON HOFFMAN (RS)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Cotton Racing / Polaris Racing Brasil"
+    },
+    {
+        "POS": "01:00:51.85\n(17)",
+        "PILOTO": "VINICIUS LIMA (MG)",
+        "VEICULO": "MINAE MIYAUTI (SP)",
+        "EQUIPE": "Can-Am Maverick X3"
+    },
+    {
+        "POS": "01:00:12.93\n(15)",
+        "PILOTO": "PEDRO MACDOWELL (SP)",
+        "VEICULO": "DANIEL SPOLIDORIO (SP)",
+        "EQUIPE": "Can-Am Maverick R"
+    },
+    {
+        "POS": "01:01:01.58\n(19)",
+        "PILOTO": "MARCO SORDI (SP)",
+        "VEICULO": "CARLOS MARTINATI (SP)",
+        "EQUIPE": "Polaris RZR Pro R"
+    },
+    {
+        "POS": "01:02:23.94\n(24)",
+        "PILOTO": "ALEXANDRE MARIANO (AC)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Hps Racing"
+    },
+    {
+        "POS": "01:01:57.51\n(22)",
+        "PILOTO": "MARCO ORTEGA (GO)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Cotton Racing"
+    },
+    {
+        "POS": "01:02:33.57\n(25)",
+        "PILOTO": "JOAO MILAN (SP)",
+        "VEICULO": "LOURIVAL ROLDAN (SP)",
+        "EQUIPE": "Can-Am Maverick X3"
+    },
+    {
+        "POS": "01:02:38.81\n(26)",
+        "PILOTO": "IVAN KUHNEN (SC)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Vigifort Racing"
+    },
+    {
+        "POS": "01:02:52.96\n(27)",
+        "PILOTO": "ALLAN CESTARI (GO)",
+        "VEICULO": "WEIDNER MOREIRA ()",
+        "EQUIPE": "Polaris RZR Pro R"
+    },
+    {
+        "POS": "00:58:53.40\n(8)",
+        "PILOTO": "JUNIOR SIQUEIRA (SP)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Cotton Racing"
+    },
+    {
+        "POS": "01:05:34.96\n(29)",
+        "PILOTO": "HELENA DEYAMA (SP)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Rally Brasil Racing"
+    },
+    {
+        "POS": "00:58:52.10\n(7)",
+        "PILOTO": "FABIO TREGANCINI (SP)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Cotton Racing"
+    },
+    {
+        "POS": "01:06:55.95\n(31)",
+        "PILOTO": "ALBERTO CASTRO (BA)",
+        "VEICULO": "FRANCISCO ERINALDO ()",
+        "EQUIPE": "Polaris RZR Pro R"
+    },
+    {
+        "POS": "01:00:23.29\n(16)",
+        "PILOTO": "PEDRO HORT (SC)",
+        "VEICULO": "CADU SACHS (SP)",
+        "EQUIPE": "Can-Am Maverick X3"
+    },
+    {
+        "POS": "01:08:05.74\n(32)",
+        "PILOTO": "JOSEF FEFFER (AC)",
+        "VEICULO": "FABRICIO BIANCHINI (SP)",
+        "EQUIPE": "Can-Am Maverick R"
+    },
+    {
+        "POS": "01:06:37.97\n(30)",
+        "PILOTO": "MARCOS MIOTTO (SP)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Dust Off Road"
+    },
+    {
+        "POS": "(6)UTU",
+        "TEMPO": "02:32:01\n00:36:49\n00:16:26",
+        "PILOTO": "DANIEL TRECENTI (SP)",
+        "VEICULO": "Can-Am Maverick X3",
+        "EQUIPE": "Hps Racing"
+    },
+    {
+        "POS": "(1)U50",
+        "TEMPO": "02:37:36\n00:42:24\n00:05:34",
+        "PILOTO": "DANIEL MASILI (SP)",
+        "VEICULO": "-",
+        "EQUIPE": "Dust Off Road"
+    },
+    {
+        "POS": "(7)UTR",
+        "TEMPO": "02:59:58\n01:04:45\n00:22:21",
+        "PILOTO": "LEONARDO CASTRO (BA)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "C3 Racing"
+    },
+    {
+        "POS": "(4)UT1",
+        "TEMPO": "03:15:00\n01:19:47\n00:15:01",
+        "PILOTO": "PEDRO BIANOR (MG)",
+        "VEICULO": "Can-Am Maverick R",
+        "EQUIPE": "Forfun Racing"
+    },
+    {
+        "POS": "(3)U55",
+        "TEMPO": "03:30:00\n01:34:47\n00:15:00",
+        "PILOTO": "TOMAZ SANTOS (SP)",
+        "VEICULO": "JEFFERSON TEIXEIRA (PR)",
+        "EQUIPE": "Can-Am Maverick X3"
+    },
+    {
+        "POS": "(4)UDB",
+        "TEMPO": "03:34:07\n01:38:55\n00:04:07",
+        "PILOTO": "RODRIGO BIANCHINI (SP)",
+        "VEICULO": "FABIO ZELLER (SP)",
+        "EQUIPE": "Can-Am Maverick X3"
+    },
+    {
+        "POS": "(7)UTU",
+        "TEMPO": "03:45:00\n01:49:47\n00:10:52",
+        "PILOTO": "GUILHERME CYSNE (SP)",
+        "VEICULO": "Polaris RZR Pro R",
+        "EQUIPE": "Gc Rally Team / Polaris Racing Brasil"
+    },
+    {
+        "POS": "(3)UT2",
+        "TEMPO": "03:50:51\n01:55:39\n00:05:51",
+        "PILOTO": "IVAN FERREIRA (SP)",
+        "VEICULO": "Can-Am Maverick X3",
+        "EQUIPE": "Saframil Rally Team"
+    }
+]

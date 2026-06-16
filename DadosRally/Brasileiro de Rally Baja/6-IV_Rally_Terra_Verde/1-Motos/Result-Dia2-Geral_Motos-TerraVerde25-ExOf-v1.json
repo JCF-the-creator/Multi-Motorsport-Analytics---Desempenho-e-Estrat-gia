@@ -1,0 +1,122 @@
+[
+    {
+        "POS": "(1)MT1",
+        "TEMPO": "01:59:53",
+        "PILOTO": "GUILHERME BISSOTTO (BA)",
+        "VEICULO": "Yamaha WR 450F",
+        "EQUIPE": "Blu Cru",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "01:59:53",
+        "DIF_LIDER": "",
+        "DIF_ANTERIOR": ""
+    },
+    {
+        "POS": "(1)MT2",
+        "TEMPO": "02:01:18",
+        "PILOTO": "NICOLAS RODRIGUEZ (RJ)",
+        "VEICULO": "Yamaha YZ 250",
+        "EQUIPE": "Protech Racing",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "02:01:18",
+        "DIF_LIDER": "00:01:24",
+        "DIF_ANTERIOR": ""
+    },
+    {
+        "POS": "(2)MT2",
+        "TEMPO": "02:13:09",
+        "PILOTO": "ANDRES SUAREZ (SP)",
+        "VEICULO": "Husqvarna FE 501",
+        "EQUIPE": "Bianchini Rally",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "02:13:09",
+        "DIF_LIDER": "00:13:16",
+        "DIF_ANTERIOR": "00:11:51"
+    },
+    {
+        "POS": "(1)MT3",
+        "TEMPO": "02:17:39",
+        "PILOTO": "LUIZ CUNHA (SP)",
+        "VEICULO": "Honda CRF 450RX",
+        "EQUIPE": "Spot Racing",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "02:17:39",
+        "DIF_LIDER": "00:17:45",
+        "DIF_ANTERIOR": "00:04:29"
+    },
+    {
+        "POS": "(1)MRG",
+        "TEMPO": "02:22:17",
+        "PILOTO": "LUCAS ESPINDOLA (SC)",
+        "VEICULO": "Honda CRF 250F",
+        "EQUIPE": "Mega Motos Honda",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "02:22:17",
+        "DIF_LIDER": "00:22:24",
+        "DIF_ANTERIOR": "00:04:38"
+    },
+    {
+        "POS": "(1)MBR",
+        "TEMPO": "02:22:25",
+        "PILOTO": "IZAC MARTINS (SP)",
+        "VEICULO": "Honda CRF 250F",
+        "EQUIPE": "Dust Rally Team",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "02:22:25",
+        "DIF_LIDER": "00:22:31",
+        "DIF_ANTERIOR": "00:00:07"
+    },
+    {
+        "POS": "(2)MBR",
+        "TEMPO": "02:29:21",
+        "PILOTO": "MILTON MEDINA (SP)",
+        "VEICULO": "Honda CRF 250F",
+        "EQUIPE": "Dust - Terremotos",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "02:29:21",
+        "DIF_LIDER": "00:29:27",
+        "DIF_ANTERIOR": "00:06:55"
+    },
+    {
+        "POS": "(3)MBR",
+        "TEMPO": "02:43:31",
+        "PILOTO": "JOSE LIMONTA (SP)",
+        "VEICULO": "Honda CRF 250",
+        "EQUIPE": "Lmt Motofield",
+        "PENAL": "",
+        "BONUS": "",
+        "TOTAL": "02:43:31",
+        "DIF_LIDER": "00:43:38",
+        "DIF_ANTERIOR": "00:14:10"
+    },
+    {
+        "POS": "(4)MBR",
+        "TEMPO": "02:41:23",
+        "PILOTO": "MATHEUS LAZARETI (SP)",
+        "VEICULO": "Honda CRF 250F",
+        "EQUIPE": "Dust Rally Team",
+        "PENAL": "00:15:00",
+        "BONUS": "",
+        "TOTAL": "02:56:23",
+        "DIF_LIDER": "00:56:29",
+        "DIF_ANTERIOR": "00:12:51"
+    },
+    {
+        "POS": "(2)MT3",
+        "TEMPO": "03:00:00",
+        "PILOTO": "PAOLO SFORZA (ITA)",
+        "VEICULO": "Kawasaki KX 450X",
+        "EQUIPE": "Racetech",
+        "PENAL": "01:25:00",
+        "BONUS": "",
+        "TOTAL": "04:25:00",
+        "DIF_LIDER": "02:25:06",
+        "DIF_ANTERIOR": "01:28:36"
+    }
+]
