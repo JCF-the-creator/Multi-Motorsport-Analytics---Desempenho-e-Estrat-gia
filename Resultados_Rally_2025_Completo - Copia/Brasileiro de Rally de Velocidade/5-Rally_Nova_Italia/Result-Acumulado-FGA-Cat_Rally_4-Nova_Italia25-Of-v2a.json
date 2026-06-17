@@ -1,0 +1,65 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-FGA-Cat_Rally_4-Nova_Italia25-Of-v2a.pdf",
+        "INFO_GERAL": "RALLY NOVA ITALIA 18/10/2025 - 18:00:00 | Resultados Oficiais | Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025 | Categoria: Rally 4 | ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km) | Campeonato Gaucho | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "88",
+            "PILOTO_INFO": "MARCOS VALANDRO (PR) ROBSON SCHUINKA (PR) Renault Clio 3 RS Rally Cascavel / Bemajjy Rally Team / Rally Center",
+            "(POS)CAT": "(1)RC4",
+            "SS1": "00:08:23.40 (2)",
+            "SS2": "00:11:45.55 (2)",
+            "SS3": "00:08:18.02 (2)",
+            "SS4": "00:11:43.26 (2)",
+            "SS5": "00:08:07.45 (2)",
+            "SS6": "00:11:24.19 (1)",
+            "SS7": "00:19:33.13 (2)",
+            "SS8": "00:17:21.73 (1)",
+            "TEMPO": "01:36:36.73",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:36:36.73"
+        },
+        {
+            "POS": "2",
+            "NUM": "246",
+            "PILOTO_INFO": "EDUARDO KRETZCHMANN (RS) AMAXIMANDRO SILVA (RS) VW Gol RS Rallye",
+            "(POS)CAT": "(2)RC4",
+            "SS1": "00:10:35.68 (3)",
+            "SS2": "00:14:22.46 (3)",
+            "SS3": "00:10:11.84 (3)",
+            "SS4": "00:14:27.48 (3)",
+            "SS5": "00:10:17.83 (3)",
+            "SS6": "00:14:14.96 (2)",
+            "SS7": "00:20:37.89 (3)",
+            "SS8": "00:19:26.63 (2)",
+            "TEMPO": "01:54:14.77",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:54:14.77 00:17:38.04"
+        },
+        {
+            "POS": "NC",
+            "NUM": "210",
+            "PILOTO_INFO": "BRUNO FOSCARINI (RS) FELIPE COSTA (RS) VW Gol Pense Rally",
+            "(POS)CAT": "(NC)RC4",
+            "SS1": "00:07:53.31 (1)",
+            "SS2": "00:11:22.32 (1)",
+            "SS3": "00:07:58.37 (1)",
+            "SS4": "00:11:10.82 (1)",
+            "SS5": "00:07:54.63 (1)",
+            "SS6": "00:19:14.96 (3)",
+            "SS7": "00:18:49.94 (1)",
+            "PENAL BONUS": "* * * * * *"
+        },
+        {
+            "POS": "NC",
+            "NUM": "34",
+            "PILOTO_INFO": "ALAN CARDOSO (RS) BRUNA GIARETTA (RS) Peugeot 207 Cardoso Rally Team",
+            "(POS)CAT": "(NC)RC4",
+            "SS1": "00:12:47.60 (4)",
+            "PENAL BONUS": "* * * * * *"
+        }
+    ]
+}

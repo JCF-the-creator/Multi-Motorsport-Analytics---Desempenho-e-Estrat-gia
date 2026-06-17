@@ -1,0 +1,128 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-Ate_D2_Geral_Motos-Poeira25-Of-v1.pdf",
+        "INFO_GERAL": "Campeonato Brasileiro de Rally Baja 2025 | VII RALLY POEIRA | Acumulado até Dia 2: Igaracu do Tiete/SP (170,38 km) | Resultados Oficiais - 10/11/2025 - 19:55 | Acumulado - Geral Motos"
+    },
+    "DADOS": [
+        {
+            "POS GERAL": "Pos Geral",
+            "NUM": "Num",
+            "PILOTO_INFO": "Piloto Navegador Veículo Equipe",
+            "CATEGORIA (POS)": "Categoria (pos)",
+            "DIA 1 (POS) 64.36 KM": "Dia 1 (pos) 64.36 km",
+            "DIA 2 (POS) 106.02 KM": "Dia 2 (pos) 106.02 km",
+            "APURADO PENAL BONUS": "Apurado Penal Bonus",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "TEMPO TOTAL Dif.Líder Dif. anterior"
+        },
+        {
+            "POS GERAL": "1⁰",
+            "NUM": "22",
+            "PILOTO_INFO": "GUILHERME BISSOTTO (BA) Yamaha WR 450F Blu Cru",
+            "CATEGORIA (POS)": "MT1 (1°)",
+            "DIA 1 (POS) 64.36 KM": "00:40:38.91 (1°)",
+            "DIA 2 (POS) 106.02 KM": "01:23:24.41 (1°)"
+        },
+        {
+            "POS GERAL": "3⁰",
+            "NUM": "1",
+            "PILOTO_INFO": "FRANCINE ROSSI (MG) Gas Gas 500F Multi Racing",
+            "CATEGORIA (POS)": "MOV (1°)",
+            "DIA 1 (POS) 64.36 KM": "00:43:41.42 (3°)",
+            "DIA 2 (POS) 106.02 KM": "01:30:21.27 (4°)",
+            "APURADO PENAL BONUS": "02:14:02.69 * * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "02:14:02.69 +09:59.37 +08:45.09"
+        },
+        {
+            "POS GERAL": "5⁰",
+            "NUM": "11",
+            "PILOTO_INFO": "ANDRES SUAREZ (SP) Husqvarna FE501 Bianchini Rally Team",
+            "CATEGORIA (POS)": "MT2 (2°)",
+            "DIA 1 (POS) 64.36 KM": "00:48:13.85 (6°)",
+            "DIA 2 (POS) 106.02 KM": "01:34:27.25 (5°)",
+            "APURADO PENAL BONUS": "02:22:41.10 * * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "02:22:41.10 +18:37.78 +06:19.25"
+        },
+        {
+            "POS GERAL": "7⁰",
+            "NUM": "14",
+            "PILOTO_INFO": "LUIZ HENRIQUE (SP) Honda CRF 450X Spot Racing",
+            "CATEGORIA (POS)": "MT3 (3°)",
+            "DIA 1 (POS) 64.36 KM": "00:49:46.23 (9°)",
+            "DIA 2 (POS) 106.02 KM": "01:34:35.16 (6°)",
+            "APURADO PENAL BONUS": "02:24:21.39 * * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "02:24:21.39 +20:18.07 +01:16.57"
+        },
+        {
+            "POS GERAL": "9⁰",
+            "NUM": "16",
+            "PILOTO_INFO": "MARCIO PAOLO (SP) Gas Gas EC 500F Multi Racing",
+            "CATEGORIA (POS)": "MT2 (3°)",
+            "DIA 1 (POS) 64.36 KM": "00:49:46.06 (8°)",
+            "DIA 2 (POS) 106.02 KM": "01:36:14.00 (9°)",
+            "APURADO PENAL BONUS": "02:26:00.06 * * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "02:26:00.06 +21:56.74 +01:23.85"
+        },
+        {
+            "COL_1": "10⁰ 30 MATHEUS LAZARETI (SP) 02:38:33.56 02:38:33.56 00:54:10.27 01:44:23.29 * * * +34:30.24 MBR (1°) Honda CRF 250 (11°) (11°) * * * +12:33.50 Dust Rally Team"
+        },
+        {
+            "COL_1": "11⁰",
+            "COL_2": "13",
+            "COL_3": "RICARDO NASCIMENTO (SP) Gas Gas EC 450 Multi Racing",
+            "COL_8": "MT3 (4°)",
+            "COL_9": "00:56:41.93 (12°)",
+            "COL_10": "01:49:23.44 (12°)",
+            "COL_11": "02:46:05.37 * * * * * *",
+            "COL_14": "02:46:05.37 +42:02.05 +07:31.81"
+        },
+        {
+            "COL_1": "12⁰ 26 MILTON MARTINS (SP) 02:43:11.58 02:48:11.58 00:59:05.34 01:44:06.24 00:05:00 +44:08.26 MBR (2°) Honda CRF 250 (13°) (10°) * * * +02:06.21 Dust Rally Team"
+        },
+        {
+            "COL_1": "13⁰",
+            "COL_2": "35",
+            "COL_3": "RODRIGO ESPINHA (SP) Kawasaki KLX 300 Lmt / Honda Motofield",
+            "COL_8": "MBR (3°)",
+            "COL_9": "01:04:57.77 (14°)",
+            "COL_10": "02:01:14.37 (13°)",
+            "COL_11": "03:06:12.14 * * * * * *",
+            "COL_14": "03:06:12.14 +01:02:08.82 +18:00.56"
+        },
+        {
+            "COL_1": "14⁰ 8 JOSE LIMONTA (SP) 03:13:16.48 03:13:16.48 01:05:37.24 02:07:39.24 * * * +01:09:13.16 MBR (4°) Honda CRF 250 (15°) (14°) * * * +07:04.34 Lmt / Honda Motofield"
+        },
+        {
+            "COL_1": "15⁰",
+            "COL_2": "32",
+            "COL_3": "PLINIO ALBUQUERQUE (PE) Kawasaki KX 450X Gc Rally Team",
+            "COL_8": "MOV (3°)",
+            "COL_9": "00:53:57.66 (10°)",
+            "COL_10": "02:30:00.00 (15°)",
+            "COL_11": "03:23:57.66 03:00:00 * * *",
+            "COL_14": "06:23:57.66 +04:19:54.34 +03:10:41.18"
+        },
+        {
+            "COL_1": "16⁰ 21 CAIO ZANETTIN (SP) 04:10:00.00 11:10:00.00 01:40:00.00 02:30:00.00 07:00:00 +09:05:56.68 MT3 (5°) Gas Gas EC 350F (16°) (16°) * * * +04:46:02.34 Vovo Tour"
+        },
+        {
+            "COL_1": "17⁰",
+            "COL_2": "27",
+            "COL_3": "IZAC ANDRADE (SP) Honda CRF 250 Dust Rally Team",
+            "COL_8": "MBR (5°)",
+            "COL_9": "01:40:00.00 (17°)",
+            "COL_10": "02:30:00.00 (17°)",
+            "COL_11": "04:10:00.00 07:00:00 * * *",
+            "COL_14": "11:10:00.00 +09:05:56.68 +00:00.00"
+        },
+        {
+            "COL_1": "18⁰ 34 LUIZ DIAS (SP) 04:10:00.00 11:10:00.00 01:40:00.00 02:30:00.00 07:00:00 +09:05:56.68 MT3 (6°) Husqvarna FE 350 (18°) (18°) * * * +00:00.00 Vovo Tour"
+        },
+        {
+            "COL_1": "Supervisão Produção Apuração",
+            "COL_12": "Supervisão",
+            "COL_15": "Produção",
+            "COL_16": "Apuração"
+        }
+    ]
+}

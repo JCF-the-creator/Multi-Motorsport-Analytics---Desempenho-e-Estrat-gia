@@ -1,0 +1,372 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-Geral_UTV-Rota_Sudeste25-Of-v1.pdf",
+        "INFO_GERAL": "XIX RALLY ROTA SUDESTE 06/07/2025 - 14:10:55 | Campeonato Brasileiro de Rally Baja 2025 Resultados Oficiais | ACUMULADO ATÉ DIA 2: Barra Bonita/SP - (218,02km) Gerais - UTV | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "101",
+            "PILOTO_INFO": "GUILHERME CYSNE (SP) Polaris RZR PRO R Gc Rally Team / Peak Automotiva",
+            "(POS)CAT": "(1)UTU",
+            "DIA 1": "01:29:16.63 (1)",
+            "DIA 2": "01:28:20.44 (1)",
+            "TEMPO": "02:57:37.07",
+            "PENAL BÔNUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "02:57:37.07"
+        },
+        {
+            "POS": "2",
+            "NUM": "121",
+            "PILOTO_INFO": "ARIEL SCHALLENBERGER (RS) Can-Am Maverick R T+A Rally Team",
+            "(POS)CAT": "(2)UTU",
+            "DIA 1": "01:30:40.33 (2)",
+            "DIA 2": "01:29:29.23 (3)",
+            "TEMPO": "03:00:09.56",
+            "PENAL BÔNUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:00:09.56 00:02:32.49"
+        },
+        {
+            "POS": "3",
+            "NUM": "111",
+            "PILOTO_INFO": "NUNO FOJO (SP) Polaris RZR PRO R Polaris Factory Racing Brasil / Cotton Racing",
+            "(POS)CAT": "(1)UT1",
+            "DIA 1": "01:31:30.06 (5)",
+            "DIA 2": "01:29:04.23 (2)",
+            "TEMPO": "03:00:34.29",
+            "PENAL BÔNUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:00:34.29 00:02:57.22 00:00:24.73"
+        },
+        {
+            "POS": "4",
+            "NUM": "118",
+            "PILOTO_INFO": "VANDERLEI RABI (SP) Polaris RZR PRO R Algodão Racing",
+            "(POS)CAT": "(1)UT2",
+            "DIA 1": "01:31:12.16 (4)",
+            "DIA 2": "01:30:13.29 (6)",
+            "TEMPO": "03:01:19.45",
+            "PENAL BÔNUS": "00:00:06.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:01:25.45 00:03:48.38 00:00:51.16"
+        },
+        {
+            "POS": "5",
+            "NUM": "135",
+            "PILOTO_INFO": "ANDRE HORT (SC) Can-Am Maverick R Hps Racing",
+            "(POS)CAT": "(3)UTU",
+            "DIA 1": "01:31:02.13 (3)",
+            "DIA 2": "01:30:43.74 (8)",
+            "TEMPO": "03:13:37.87",
+            "PENAL BÔNUS": "00:00:10.00 00:12:02.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:01:45.87 00:04:08.80 00:00:20.42"
+        },
+        {
+            "POS": "6",
+            "NUM": "117",
+            "PILOTO_INFO": "FABIO TREGANCINI (SP) Polaris RZR PRO R Algodão Racing",
+            "(POS)CAT": "(1)UT3",
+            "DIA 1": "01:32:05.57 (6)",
+            "DIA 2": "01:30:06.10 (5)",
+            "TEMPO": "03:02:11.67",
+            "PENAL BÔNUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:02:11.67 00:04:34.60 00:00:25.80"
+        },
+        {
+            "POS": "7",
+            "NUM": "132",
+            "PILOTO_INFO": "JOÃO FRANCIOSI (BA) Can-Am Maverick X3 Cotton Racing",
+            "(POS)CAT": "(4)UTU",
+            "DIA 1": "01:33:17.61 (7)",
+            "DIA 2": "01:29:56.81 (4)",
+            "TEMPO": "03:03:04.42",
+            "PENAL BÔNUS": "00:00:10.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:03:14.42 00:05:37.35 00:01:02.75"
+        },
+        {
+            "POS": "8",
+            "NUM": "131",
+            "PILOTO_INFO": "MARCOS MIOTTO (SP) Can-Am Maverick R Dust Rally Team",
+            "(POS)CAT": "(5)UTU",
+            "DIA 1": "01:36:56.22 (12)",
+            "DIA 2": "01:31:15.49 (10)",
+            "TEMPO": "03:03:11.71",
+            "PENAL BÔNUS": "00:05:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:08:11.71 00:10:34.64 00:04:57.29"
+        },
+        {
+            "POS": "9",
+            "NUM": "148",
+            "PILOTO_INFO": "PARLEY FIAMONCINI (ES) Can-Am Maverick R 299 Racing",
+            "(POS)CAT": "(6)UTU",
+            "DIA 1": "01:33:57.07 (8)",
+            "DIA 2": "01:37:15.00 (19)",
+            "TEMPO": "03:07:06.07",
+            "PENAL BÔNUS": "00:04:06.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:11:12.07 00:13:35.00 00:03:00.36"
+        },
+        {
+            "POS": "10",
+            "NUM": "127",
+            "PILOTO_INFO": "JOÃO MILAN (SP) LOURIVAL ROLDAN (SP) Can-Am Maverick X3 Cotton Racing",
+            "(POS)CAT": "(1)UDB",
+            "DIA 1": "01:36:01.04 (9)",
+            "DIA 2": "01:35:52.20 (16)",
+            "TEMPO": "03:11:53.24",
+            "PENAL BÔNUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:11:53.24 00:14:16.17 00:00:41.17"
+        },
+        {
+            "POS": "11",
+            "NUM": "150",
+            "PILOTO_INFO": "DIEGO SANTOS (PR) CLAUDIO RIESER (SP) Polaris RZR PRO R Gc Rally Team",
+            "(POS)CAT": "(2)UDB",
+            "DIA 1": "01:37:12.09 (13)",
+            "DIA 2": "01:37:54.32 (20)",
+            "TEMPO": "03:15:06.41",
+            "PENAL BÔNUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:15:06.41 00:17:29.34 00:03:13.17"
+        },
+        {
+            "POS": "12",
+            "NUM": "143",
+            "PILOTO_INFO": "RICARDO SANTOS (SP) ROBSON SCHUINKA (SP) Can-Am Maverick X3 Hps Racing",
+            "(POS)CAT": "(3)UDB",
+            "DIA 1": "01:41:26.98 (16)",
+            "DIA 2": "01:33:39.49 (14)",
+            "TEMPO": "03:15:06.47",
+            "PENAL BÔNUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:15:06.47 00:17:29.40 00:00:00.06"
+        },
+        {
+            "POS": "13",
+            "NUM": "141",
+            "PILOTO_INFO": "JEFFERSON HOFFMAN (RS) Polaris RZR PRO R Cotton Racing / Polaris Racing Brasil",
+            "(POS)CAT": "(2)UT3",
+            "DIA 1": "01:39:39.09 (14)",
+            "DIA 2": "01:38:15.36 (21)",
+            "TEMPO": "03:17:54.45",
+            "PENAL BÔNUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:17:54.45 00:20:17.38 00:02:47.98"
+        },
+        {
+            "COL_1": "14",
+            "COL_2": "133",
+            "COL_3": "TOMAZ DOS SANTOS (SP) JEFFINHO TEIXEIRA (SC) Can-Am Maverick X3 Hps Racing",
+            "COL_4": "(1)U55",
+            "COL_5": "01:42:18.58 (17)",
+            "COL_6": "01:36:29.73 (18)",
+            "COL_7": "03:16:48.31",
+            "COL_8": "00:02:00.00 * * *",
+            "COL_9": "03:18:48.31 00:21:11.24 00:00:53.86"
+        },
+        {
+            "COL_1": "15",
+            "COL_2": "140",
+            "COL_3": "JOAO AFRO (MA) Polaris RZR PRO R Rally Maranhão / Msl Motorsports",
+            "COL_4": "(2)UT2",
+            "COL_5": "01:36:30.02 (11)",
+            "COL_6": "01:42:35.90 (26)",
+            "COL_7": "03:19:05.92",
+            "COL_8": "* * * * * *",
+            "COL_9": "03:19:05.92 00:21:28.85 00:00:17.61"
+        },
+        {
+            "COL_1": "16",
+            "COL_2": "144",
+            "COL_3": "LEONARDO ISHIZUKA (SP) Can-Am Maverick X3 Dust Rally Team",
+            "COL_4": "(1)U50",
+            "COL_5": "01:40:33.26 (15)",
+            "COL_6": "01:40:29.85 (23)",
+            "COL_7": "03:21:03.11",
+            "COL_8": "* * * * * *",
+            "COL_9": "03:21:03.11 00:23:26.04 00:01:57.19"
+        },
+        {
+            "COL_1": "17",
+            "COL_2": "155",
+            "COL_3": "HELENA DEYAMA (SP) Can-Am Maverick R Rally Brasil Racing",
+            "COL_4": "(1)UOP",
+            "COL_5": "01:44:02.73 (19)",
+            "COL_6": "01:40:00.03 (22)",
+            "COL_7": "03:21:02.76",
+            "COL_8": "00:03:00.00 * * *",
+            "COL_9": "03:24:02.76 00:26:25.69 00:02:59.65"
+        },
+        {
+            "COL_1": "18",
+            "COL_2": "122",
+            "COL_3": "DANIEL MASILI (SP) Can-Am Maverick X3 Dust Rally Team",
+            "COL_4": "(2)U50",
+            "COL_5": "01:46:06.19 (20)",
+            "COL_6": "01:41:22.65 (24)",
+            "COL_7": "03:27:28.84",
+            "COL_8": "* * * * * *",
+            "COL_9": "03:27:28.84 00:29:51.77 00:03:26.08"
+        },
+        {
+            "COL_1": "19",
+            "COL_2": "142",
+            "COL_3": "RICARDO GALLI (SP) Can-Am Maverick R Cotton Racing",
+            "COL_4": "(2)UT1",
+            "COL_5": "02:03:30.37 (23)",
+            "COL_6": "01:31:23.17 (11)",
+            "COL_7": "03:03:53.54",
+            "COL_8": "00:31:00.00 * * *",
+            "COL_9": "03:34:53.54 00:37:16.47 00:07:24.70"
+        },
+        {
+            "COL_1": "20",
+            "COL_2": "108",
+            "COL_3": "RODRIGO MATSUMOTO (MS) Polaris RZR PRO R Cotton Racing",
+            "COL_4": "(3)UT3",
+            "COL_5": "02:05:13.97 (24)",
+            "COL_6": "01:33:01.20 (13)",
+            "COL_7": "03:35:15.17",
+            "COL_8": "00:03:00.00 * * *",
+            "COL_9": "03:38:15.17 00:40:38.10 00:03:21.63"
+        },
+        {
+            "COL_1": "21",
+            "COL_2": "145",
+            "COL_3": "CAIQUE VOLPE (SP) Polaris RZR PRO R Msl Rally Team",
+            "COL_4": "(3)UT2",
+            "COL_5": "02:05:33.41 (25)",
+            "COL_6": "01:33:53.36 (15)",
+            "COL_7": "03:39:26.77",
+            "COL_8": "* * * * * *",
+            "COL_9": "03:39:26.77 00:41:49.70 00:01:11.60"
+        },
+        {
+            "COL_1": "22",
+            "COL_2": "129",
+            "COL_3": "VINICIUS JOSE LIMA (MG) MINAE MIYAUTI (SP) Can-Am Maverick X3 Bianchini Rally Team",
+            "COL_4": "(4)UDB",
+            "COL_5": "01:36:29.19 (10)",
+            "COL_6": "02:10:56.81 (30)",
+            "COL_7": "03:47:26.00",
+            "COL_8": "* * * * * *",
+            "COL_9": "03:47:26.00 00:49:48.93 00:07:59.23"
+        },
+        {
+            "COL_1": "23",
+            "COL_2": "149",
+            "COL_3": "PABLO RODRIGUES (MG) Can-Am Maverick X3 Forfun",
+            "COL_4": "(4)UT3",
+            "COL_5": "02:07:37.61 (26)",
+            "COL_6": "01:43:25.75 (27)",
+            "COL_7": "03:51:03.36",
+            "COL_8": "* * * * * *",
+            "COL_9": "03:51:03.36 00:53:26.29 00:03:37.36"
+        },
+        {
+            "COL_1": "24",
+            "COL_2": "109",
+            "COL_3": "IVAN FERREIRA (SP) Can-Am Maverick X3 Safra Mil",
+            "COL_4": "(4)UT2",
+            "COL_5": "02:13:14.05 (27)",
+            "COL_6": "01:41:25.14 (25)",
+            "COL_7": "03:46:39.19",
+            "COL_8": "00:08:00.00 * * *",
+            "COL_9": "03:54:39.19 00:57:02.12 00:03:35.83"
+        },
+        {
+            "COL_1": "25",
+            "COL_2": "120",
+            "COL_3": "CAIO ABUJAMRA (SP) Polaris RZR PRO R Gc Rally Team",
+            "COL_4": "(5)UT3",
+            "COL_5": "02:26:43.07 (28)",
+            "COL_6": "01:31:07.34 (9)",
+            "COL_7": "03:57:50.41",
+            "COL_8": "* * * * * *",
+            "COL_9": "03:57:50.41 01:00:13.34 00:03:11.22"
+        },
+        {
+            "COL_1": "26",
+            "COL_2": "147",
+            "COL_3": "RAQUEL STEIN (SP) GUNTER HINKELMANN (SP) Polaris RZR PRO R Msl Rally Team",
+            "COL_4": "(5)UDB",
+            "COL_5": "02:02:21.37 (22)",
+            "COL_6": "02:01:57.92 (29)",
+            "COL_7": "04:04:19.29",
+            "COL_8": "* * * * * *",
+            "COL_9": "04:04:19.29 01:06:42.22 00:06:28.88"
+        },
+        {
+            "COL_1": "27",
+            "COL_2": "116",
+            "COL_3": "MARCO DE SORDI (SP) CARLOS MARTINATTI (SP) Can-Am Maverick X3 Gc Rally Team",
+            "COL_4": "(2)U55",
+            "COL_5": "03:08:22.00 (29)",
+            "COL_6": "01:36:25.31 (17)",
+            "COL_7": "04:13:25.31",
+            "COL_8": "00:31:22.00 * * *",
+            "COL_9": "04:44:47.31 01:47:10.24 00:40:28.02"
+        },
+        {
+            "COL_1": "28",
+            "COL_2": "112",
+            "COL_3": "JUNIOR SIQUEIRA (SP) Polaris RZR PRO R Cotton Racing / Polaris Racing Brasil",
+            "COL_4": "(5)UT2",
+            "COL_5": "03:40:00.00 (30)",
+            "COL_6": "01:30:17.41 (7)",
+            "COL_7": "04:10:17.41",
+            "COL_8": "01:00:00.00 * * *",
+            "COL_9": "05:10:17.41 02:12:40.34 00:25:30.10"
+        },
+        {
+            "COL_1": "29",
+            "COL_2": "125",
+            "COL_3": "PEDRO BIANOR (MG) Can-Am Maverick R Forfun Brp / Vn Maquinas",
+            "COL_5": "(3)UT1",
+            "COL_6": "01:51:56.64 (21)",
+            "COL_7": "04:10:00.00 (31)",
+            "COL_8": "04:31:56.64",
+            "COL_9": "01:30:00.00 * * *",
+            "COL_10": "06:01:56.64 03:04:19.57 00:51:39.23"
+        },
+        {
+            "COL_1": "30",
+            "COL_2": "146",
+            "COL_3": "TOMAS LUZA (BA) Can-Am Maverick R Cotton Racing",
+            "COL_5": "(7)UTU",
+            "COL_6": "04:40:00.00 (32)",
+            "COL_7": "01:31:36.77 (12)",
+            "COL_8": "04:11:36.77",
+            "COL_9": "02:00:00.00 * * *",
+            "COL_10": "06:11:36.77 03:13:59.70 00:09:40.13"
+        },
+        {
+            "COL_1": "31",
+            "COL_2": "130",
+            "COL_3": "JAVIER CASANOVA (SP) Can-Am Maverick X3 Rally Brasil Racing",
+            "COL_5": "(6)UT3",
+            "COL_6": "01:43:50.36 (18)",
+            "COL_7": "04:40:00.00 (32)",
+            "COL_8": "04:23:50.36",
+            "COL_9": "02:00:00.00 * * *",
+            "COL_10": "06:23:50.36 03:26:13.29 00:12:13.59"
+        },
+        {
+            "COL_1": "32",
+            "COL_2": "105",
+            "COL_3": "MARCUS COTTON (SP) Polaris RZR PRO R Cotton Racing / Polaris Factory Racing Brasil",
+            "COL_5": "(4)UT1",
+            "COL_6": "04:40:00.00 (32)",
+            "COL_7": "01:47:15.62 (28)",
+            "COL_8": "04:11:15.62",
+            "COL_9": "02:16:00.00 * * *",
+            "COL_10": "06:27:15.62 03:29:38.55 00:03:25.26"
+        },
+        {
+            "COL_1": "33",
+            "COL_2": "139",
+            "COL_3": "MARCO ORTEGA (GO) Polaris RZR PRO R Cotton Racing",
+            "COL_5": "(7)UT3",
+            "COL_6": "04:10:00.00 (31)",
+            "COL_7": "06:40:00.00 (33)",
+            "COL_8": "05:20:00.00",
+            "COL_9": "05:30:00.00 * * *",
+            "COL_10": "10:50:00.00 07:52:22.93 04:22:44.38"
+        }
+    ]
+}

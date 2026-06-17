@@ -1,0 +1,122 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-FGA-Cat_Rally_5_Light-Nova_Italia25-Of-v2a.pdf",
+        "INFO_GERAL": "RALLY NOVA ITALIA 18/10/2025 - 18:00:00 | Resultados Oficiais | Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025 | Categoria: Rally 5 Light | ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km) | Campeonato Gaucho | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "217",
+            "PILOTO_INFO": "RAFAEL CABELLO (RS) RAFAEL KARPINSKI (RS) VW Gol RS Rallye / Viemar",
+            "(POS)CAT": "(1)R5L",
+            "SS1": "00:08:36.64 (5)",
+            "SS2": "00:12:07.78 (5)",
+            "SS3": "00:08:12.58 (3)",
+            "SS4": "00:11:34.06 (3)",
+            "SS5": "00:08:06.04 (3)",
+            "SS6": "00:11:24.19 (1)",
+            "SS7": "00:17:12.85 (2)",
+            "SS8": "00:16:52.36 (2)",
+            "TEMPO": "01:34:06.50",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:34:06.50"
+        },
+        {
+            "POS": "2",
+            "NUM": "3",
+            "PILOTO_INFO": "GABRIEL BOFF (RS) LUCAS NEUMANN (RS) Peugeot 206 Mepel / Cacil Rally",
+            "(POS)CAT": "(2)R5L",
+            "SS1": "00:08:54.08 (6)",
+            "SS2": "00:12:11.86 (6)",
+            "SS3": "00:08:55.83 (6)",
+            "SS4": "00:12:12.84 (4)",
+            "SS5": "00:08:26.29 (4)",
+            "SS6": "00:11:50.07 (3)",
+            "SS7": "00:16:27.86 (1)",
+            "SS8": "00:16:17.38 (1)",
+            "TEMPO": "01:35:16.21",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:35:16.21 00:01:09.71"
+        },
+        {
+            "POS": "3",
+            "NUM": "42",
+            "PILOTO_INFO": "ENZO BRUSTOLIN (SC) GABRIEL MORAES (RS) Renault Clio ACE / Fly Competition",
+            "(POS)CAT": "(3)R5L",
+            "SS1": "00:09:18.01 (8)",
+            "SS2": "00:12:59.80 (8)",
+            "SS3": "00:08:55.61 (5)",
+            "SS4": "00:12:35.62 (5)",
+            "SS5": "00:08:44.00 (5)",
+            "SS6": "00:12:11.18 (4)",
+            "SS7": "00:17:18.20 (3)",
+            "SS8": "00:17:21.23 (4)",
+            "TEMPO": "01:39:23.65",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:39:23.65 00:05:17.15 00:04:07.44"
+        },
+        {
+            "POS": "4",
+            "NUM": "80",
+            "PILOTO_INFO": "ISRAEL REMZETTI (SC) RAPHAEL FURTADO (RS) Chevrolet Celta RCF/Fly Competition",
+            "(POS)CAT": "(4)R5L",
+            "SS1": "00:09:09.94 (7)",
+            "SS2": "00:12:48.28 (7)",
+            "SS3": "00:09:35.60 (7)",
+            "SS4": "00:13:08.77 (6)",
+            "SS5": "00:09:10.86 (6)",
+            "SS6": "00:12:37.53 (5)",
+            "SS7": "00:17:25.63 (4)",
+            "SS8": "00:17:05.79 (3)",
+            "TEMPO": "01:40:52.40",
+            "PENAL BONUS": "00:00:10.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:41:02.40 00:06:55.90 00:01:38.75"
+        },
+        {
+            "POS": "NC",
+            "NUM": "208",
+            "PILOTO_INFO": "ALEXANDRE MARTINI (RS) EVANDRO FRIGO (SC) Peugeot 207 HB Rally Nova Prata",
+            "(POS)CAT": "(NC)R5L",
+            "SS1": "00:08:20.24 (1)",
+            "SS2": "00:11:37.83 (1)",
+            "SS3": "00:08:05.60 (1)",
+            "SS4": "00:11:30.63 (1)",
+            "SS5": "00:08:04.86 (2)",
+            "SS6": "00:11:34.62 (2)",
+            "PENAL BONUS": "* * * * * *"
+        },
+        {
+            "POS": "NC",
+            "NUM": "11",
+            "PILOTO_INFO": "VITOR BOFF (RS) RAFAEL LODEA (RS) Peugeot 207 ACE Rally RS",
+            "(POS)CAT": "(NC)R5L",
+            "SS1": "00:08:21.66 (3)",
+            "SS2": "00:11:46.34 (2)",
+            "SS3": "00:08:12.17 (2)",
+            "SS4": "00:11:33.34 (2)",
+            "SS5": "00:07:59.09 (1)",
+            "PENAL BONUS": "* * * * * *"
+        },
+        {
+            "POS": "NC",
+            "NUM": "49",
+            "PILOTO_INFO": "ANDERSON GRAEFF (RS) MARLON ZILL (RS) Fiat Palio Andimar/Cardoso Rally Team",
+            "(POS)CAT": "(NC)R5L",
+            "SS1": "00:08:26.45 (4)",
+            "SS2": "00:11:54.37 (3)",
+            "SS3": "00:08:13.41 (4)",
+            "SS4": "00:13:58.68 (7)",
+            "PENAL BONUS": "* * * * * *"
+        },
+        {
+            "POS": "NC",
+            "NUM": "44",
+            "PILOTO_INFO": "EDUARDO TONIAL (RS) MURILO SPIRONELO (RS) Peugeot 206 ACE / Tonial / GTS",
+            "(POS)CAT": "(NC)R5L",
+            "SS1": "00:08:20.91 (2)",
+            "SS2": "00:11:54.38 (4)",
+            "PENAL BONUS": "* * * * * *"
+        }
+    ]
+}

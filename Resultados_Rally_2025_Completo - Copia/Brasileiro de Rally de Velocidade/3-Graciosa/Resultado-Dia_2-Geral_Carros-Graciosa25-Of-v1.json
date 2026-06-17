@@ -1,0 +1,130 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Resultado-Dia_2-Geral_Carros-Graciosa25-Of-v1.pdf",
+        "INFO_GERAL": "XXXVIII RALLY DA GRACIOSA 12/07/2025 - 17:20:29 | Campeonato Brasileiro e Paranaense de Rally de Velocidade 2025 Resultados Extra-Oficiais | ACUMULADO ATÉ SS10: SS Sao Joao - Antonina 2 (Power Stage) - (125.17km) Geral - Carros | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "28",
+            "PILOTO_INFO": "BERNARDO REUWSAAT (RS) SIDINEI BROERING (SC) VW Up TSI Pro Tune Rally",
+            "(POS)CAT": "(1)RC5",
+            "SS5": "00:05:04.27 (3)",
+            "SS6": "00:04:56.41 (2)",
+            "SS8": "00:05:31.21 (3)",
+            "SS9": "00:04:51.26 (2)",
+            "SS10": "00:04:47.12 (2)",
+            "TEMPO": "00:25:10.27",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "00:25:10.27"
+        },
+        {
+            "POS": "2",
+            "NUM": "25",
+            "PILOTO_INFO": "TIAGO KLIMACZEWSKI (SC) FELIPE KLIMACZEWSKI (SC) VW Up TSI K-Sport Rally",
+            "(POS)CAT": "(2)RC5",
+            "SS5": "00:05:03.56 (2)",
+            "SS6": "00:04:59.31 (3)",
+            "SS8": "00:05:30.04 (2)",
+            "SS9": "00:04:51.17 (1)",
+            "SS10": "00:04:46.56 (1)",
+            "TEMPO": "00:25:10.64",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "00:25:10.64 00:00:00.37"
+        },
+        {
+            "POS": "3",
+            "NUM": "44",
+            "PILOTO_INFO": "EDUARDO TONIAL (RS) MURILO SPIRONELO (RS) Peugeot 206 ACE / Tonial / GTS",
+            "(POS)CAT": "(1)R5L",
+            "SS5": "00:05:22.31 (5)",
+            "SS6": "00:05:11.14 (5)",
+            "SS8": "00:05:55.33 (4)",
+            "SS9": "00:05:13.49 (4)",
+            "SS10": "00:05:16.22 (3)",
+            "TEMPO": "00:26:58.49",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "00:26:58.49 00:01:48.22 00:01:47.85"
+        },
+        {
+            "POS": "4",
+            "NUM": "10",
+            "PILOTO_INFO": "ADIB SADA (PR) ALBERT DE OLIVEIRA (PR) Ford Ka ASTJ",
+            "(POS)CAT": "(3)RC5",
+            "SS5": "00:05:26.11 (6)",
+            "SS6": "00:05:18.93 (6)",
+            "SS8": "00:05:57.58 (5)",
+            "SS9": "00:05:26.95 (5)",
+            "SS10": "00:05:28.87 (5)",
+            "TEMPO": "00:27:38.44",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "00:27:38.44 00:02:28.17 00:00:39.95"
+        },
+        {
+            "POS": "5",
+            "NUM": "67",
+            "PILOTO_INFO": "JULIO CARTAXO (PR) RODRIGO VICARI (PR) Peugeot 206 Cartacari Racing",
+            "(POS)CAT": "(2)R5L",
+            "SS5": "00:05:38.51 (7)",
+            "SS6": "00:05:36.94 (7)",
+            "SS8": "00:06:13.33 (6)",
+            "SS9": "00:05:28.44 (6)",
+            "SS10": "00:05:28.36 (4)",
+            "TEMPO": "00:28:25.58",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "00:28:25.58 00:03:15.31 00:00:47.14"
+        },
+        {
+            "POS": "6",
+            "NUM": "15",
+            "PILOTO_INFO": "LEANDRO BRUSTOLIN (RS) ANDREY KARPINSKI (RS) Renault Clio ACE/Fly Competition",
+            "(POS)CAT": "(1)RC4",
+            "SS5": "00:04:59.06 (1)",
+            "SS6": "00:04:53.63 (1)",
+            "SS8": "00:05:29.30 (1)",
+            "SS9": "00:04:53.97 (3)",
+            "SS10": "00:11:52.36 (7)",
+            "TEMPO": "00:32:08.32",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "00:32:08.32 00:06:58.05 00:03:42.74"
+        },
+        {
+            "POS": "7",
+            "NUM": "73",
+            "PILOTO_INFO": "CHARLES LUVIZOTTO (PR) FLORENCE LUVIZOTTO (PR) Peugeot 207 Luvizotto Racing",
+            "(POS)CAT": "(3)R5L",
+            "SS5": "00:06:50.50 (8)",
+            "SS6": "00:06:46.82 (8)",
+            "SS8": "00:07:32.30 (7)",
+            "SS9": "00:06:59.55 (7)",
+            "SS10": "00:06:52.93 (6)",
+            "TEMPO": "00:35:02.10",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "00:35:02.10 00:09:51.83 00:02:53.78"
+        },
+        {
+            "POS": "NC",
+            "NUM": "11",
+            "PILOTO_INFO": "VITOR HUGO BOFF (RS) RAFAEL LODEA (RS) Peugeot 207 ACE Rally RS",
+            "(POS)CAT": "(NC)RC5",
+            "SS5": "00:05:09.30 (4)",
+            "SS6": "00:05:10.25 (4)",
+            "PENAL BONUS": "* * * * * *"
+        },
+        {
+            "POS": "NC",
+            "NUM": "5",
+            "PILOTO_INFO": "MAURICIO NEVES (PR) LEANDRO FERRARINI (PR) VW Gol ProMacchina Motorsport",
+            "(POS)CAT": "(NC)RC4",
+            "PENAL BONUS": "* * * * * *"
+        },
+        {
+            "POS": "NC",
+            "NUM": "72",
+            "PILOTO_INFO": "SANDRO MAIA (PR) GUILHERME PONTAROLO (PR) Fiat Palio Maia Racing/The Wokes Band",
+            "(POS)CAT": "(NC)RC5",
+            "PENAL BONUS": "* * * * * *"
+        }
+    ]
+}

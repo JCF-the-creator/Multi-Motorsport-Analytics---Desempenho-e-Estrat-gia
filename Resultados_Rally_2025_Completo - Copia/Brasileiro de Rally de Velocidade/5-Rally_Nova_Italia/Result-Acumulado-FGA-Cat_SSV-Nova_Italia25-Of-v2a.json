@@ -1,0 +1,26 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-FGA-Cat_SSV-Nova_Italia25-Of-v2a.pdf",
+        "INFO_GERAL": "RALLY NOVA ITALIA 18/10/2025 - 18:00:00 | Resultados Oficiais | Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025 | Categoria: SSV - UTV Production | ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km) | Campeonato Gaucho | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "37",
+            "PILOTO_INFO": "RODRIGO VARELA (SP) MARCO MARINI (RS) Can-Am Maverick R Varela Can-Am Monster Energy",
+            "(POS)CAT": "(1)SSV",
+            "SS1": "00:07:08.86 (1)",
+            "SS2": "00:10:13.39 (1)",
+            "SS3": "00:07:09.28 (1)",
+            "SS4": "00:10:18.74 (1)",
+            "SS5": "00:06:52.61 (1)",
+            "SS6": "00:09:44.48 (1)",
+            "SS7": "00:14:03.12 (1)",
+            "SS8": "00:13:52.48 (1)",
+            "TEMPO": "01:19:12.88",
+            "PENAL BONUS": "00:00:10.08 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:19:22.96"
+        }
+    ]
+}

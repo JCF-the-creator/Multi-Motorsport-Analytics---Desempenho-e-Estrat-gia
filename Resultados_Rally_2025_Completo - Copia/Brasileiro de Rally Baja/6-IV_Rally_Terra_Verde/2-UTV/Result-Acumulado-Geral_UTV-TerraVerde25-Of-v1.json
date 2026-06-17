@@ -1,0 +1,301 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-Geral_UTV-TerraVerde25-Of-v1.pdf",
+        "INFO_GERAL": "Campeonato Brasileiro de Rally Baja | IV RALLY TERRA VERDE | Acumulado até PE4: Sao Carlos/SP (257,88 km) | Resultados Oficiais - 07/12/2025 - 15:23 | Acumulado - Geral UTV"
+    },
+    "DADOS": [
+        {
+            "POS GERAL": "Pos Geral",
+            "NUM": "Num",
+            "PILOTO_INFO": "Piloto Navegador Veículo Equipe",
+            "CATEGORIA (POS)": "Categoria (pos)",
+            "PE1 (POS) 64.47 KM": "PE1 (pos) 64.47 km",
+            "PE2 (POS) 64.47 KM": "PE2 (pos) 64.47 km",
+            "PE3 (POS) 64.47 KM": "PE3 (pos) 64.47 km",
+            "PE4 (POS) 64.47 KM": "PE4 (pos) 64.47 km",
+            "APURADO PENAL BONUS": "Apurado Penal Bonus",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "TEMPO TOTAL Dif.Líder Dif. anterior"
+        },
+        {
+            "POS GERAL": "1⁰",
+            "NUM": "128",
+            "PILOTO_INFO": "BRUNO VARELA (SP) Can-Am Maverick R Varela Can-Am M. Energy",
+            "CATEGORIA (POS)": "UTU (1°)",
+            "PE1 (POS) 64.47 KM": "00:57:59.04 (1°)",
+            "PE2 (POS) 64.47 KM": "00:57:54.75 (2°)",
+            "PE3 (POS) 64.47 KM": "00:57:29.37 (3°)",
+            "PE4 (POS) 64.47 KM": "00:57:42.82 (1°)"
+        },
+        {
+            "POS GERAL": "3⁰",
+            "NUM": "123",
+            "PILOTO_INFO": "KAIQUE BENTIVOGLIO (SP) Polaris RZR Pro R Polaris One",
+            "CATEGORIA (POS)": "UT1 (1°)",
+            "PE1 (POS) 64.47 KM": "00:58:36.49 (4°)",
+            "PE2 (POS) 64.47 KM": "00:58:14.47 (4°)",
+            "PE3 (POS) 64.47 KM": "00:57:10.82 (1°)",
+            "PE4 (POS) 64.47 KM": "00:59:10.90 (6°)",
+            "APURADO PENAL BONUS": "03:53:12.68 00:00:09 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:53:21.68 +02:15.70 +00:48.24"
+        },
+        {
+            "POS GERAL": "5⁰",
+            "NUM": "138",
+            "PILOTO_INFO": "THIAGO TORRES (SP) EDUARDO SHIGA (SP) Can-Am Maverick R T+A Rally Team",
+            "CATEGORIA (POS)": "UTR (1°)",
+            "PE1 (POS) 64.47 KM": "00:59:52.08 (7°)",
+            "PE2 (POS) 64.47 KM": "00:59:37.96 (8°)",
+            "PE3 (POS) 64.47 KM": "00:58:48.75 (8°)",
+            "PE4 (POS) 64.47 KM": "00:58:32.68 (4°)",
+            "APURADO PENAL BONUS": "03:56:51.47 * * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:56:51.47 +05:45.49 +00:36.77"
+        },
+        {
+            "POS GERAL": "7⁰",
+            "NUM": "126",
+            "PILOTO_INFO": "REINALDO VARELA (SP) TULIO TANIGUCHI (SP) Can-Am Maverick R Varela Can-Am M. Energy",
+            "CATEGORIA (POS)": "UTR (3°)",
+            "PE1 (POS) 64.47 KM": "01:00:43.42 (15°)",
+            "PE2 (POS) 64.47 KM": "00:59:56.13 (12°)",
+            "PE3 (POS) 64.47 KM": "00:59:33.40 (13°)",
+            "PE4 (POS) 64.47 KM": "00:59:22.56 (10°)",
+            "APURADO PENAL BONUS": "03:59:35.51 * * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:59:35.51 +08:29.53 +00:17.55"
+        },
+        {
+            "POS GERAL": "9⁰",
+            "NUM": "148",
+            "PILOTO_INFO": "PARLEY FIAMONCINI (SC) Can-Am Maverick R 299 Racing",
+            "CATEGORIA (POS)": "UTU (4°)",
+            "PE1 (POS) 64.47 KM": "01:00:39.85 (14°)",
+            "PE2 (POS) 64.47 KM": "01:00:29.08 (18°)",
+            "PE3 (POS) 64.47 KM": "01:00:06.90 (17°)",
+            "PE4 (POS) 64.47 KM": "00:59:51.86 (13°)",
+            "APURADO PENAL BONUS": "04:01:07.69 00:01:00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "04:02:07.69 +11:01.71 +02:17.89"
+        },
+        {
+            "COL_1": "10⁰ 120 CAIO ABUJAMRA (SP) 03:59:29.66 04:02:29.66 01:00:31.54 00:59:59.33 00:59:22.21 00:59:36.58 00:03:00 +11:23.68 UT3 (1°) Polaris RZR Pro R (11°) (13°) (11°) (11°) * * * +00:21.97 Gc Rally Team"
+        },
+        {
+            "COL_1": "11⁰",
+            "COL_2": "136",
+            "COL_3": "GABRIEL CESTARI (MG) Can-Am Maverick R Cotton Racing / Ghia Motorsports",
+            "COL_8": "UTR (4°)",
+            "COL_9": "01:05:54.61 (30°)",
+            "COL_10": "01:00:08.23 (15°)",
+            "COL_11": "00:59:41.70 (15°)",
+            "COL_12": "00:59:17.83 (8°)",
+            "COL_13": "04:05:02.37 * * * * * *",
+            "COL_15": "04:05:02.37 +13:56.39 +02:32.71"
+        },
+        {
+            "COL_1": "12⁰ 129 VINICIUS LIMA (MG) 04:05:47.45 04:05:47.45 MINAE MIYAUTI (SP) 01:02:23.95 01:01:05.85 01:00:51.85 01:01:25.80 * * * +14:41.47 UDB (1°) Can-Am Maverick X3 (21°) (20°) (19°) (16°) * * * +00:45.08 Bianchini Rally"
+        },
+        {
+            "COL_1": "13⁰",
+            "COL_2": "143",
+            "COL_3": "RICARDO SANTOS (SP) ROBSON SCHUINKA (PR) Can-Am Maverick X3 Omni Trade / Hps Racing",
+            "COL_8": "UDB (2°) HPS (2°)",
+            "COL_9": "01:02:32.73 (22°)",
+            "COL_10": "01:02:07.50 (23°)",
+            "COL_11": "01:01:03.47 (22°)",
+            "COL_12": "01:00:45.02 (14°)",
+            "COL_13": "04:06:28.72 00:00:18 * * *",
+            "COL_15": "04:06:46.72 +15:40.74 +00:59.27"
+        },
+        {
+            "COL_1": "14⁰ 137 JEFFERSON HOFFMAN (RS) 04:07:05.41 04:07:05.41 01:02:22.36 01:02:35.39 01:00:58.48 01:01:09.18 * * * +15:59.43 UT3 (2°) Polaris RZR Pro R (20°) (25°) (20°) (15°) * * * +00:18.69 Cotton Racing / Polaris Racing Brasil"
+        },
+        {
+            "COL_1": "15⁰",
+            "COL_2": "116",
+            "COL_3": "MARCO SORDI (SP) CARLOS MARTINATI (SP) Polaris RZR Pro R Gc Rally Team",
+            "COL_8": "U55 (1°)",
+            "COL_9": "01:03:06.39 (25°)",
+            "COL_10": "01:01:44.66 (21°)",
+            "COL_11": "01:01:01.58 (21°)",
+            "COL_12": "01:02:07.80 (21°)",
+            "COL_13": "04:08:00.43 * * * * * *",
+            "COL_15": "04:08:00.43 +16:54.45 +00:55.02"
+        },
+        {
+            "COL_1": "16⁰ 127 JOAO MILAN (SP) 04:08:29.62 04:08:29.62 LOURIVAL ROLDAN (SP) 01:01:38.34 01:02:37.51 01:02:33.57 01:01:40.20 * * * +17:23.64 UDB (3°) Can-Am Maverick X3 (18°) (26°) (25°) (18°) * * * +00:29.19 Cotton Racing"
+        },
+        {
+            "COL_1": "17⁰",
+            "COL_2": "154",
+            "COL_3": "ALEXANDRE MARIANO (AC) Can-Am Maverick R Hps Racing",
+            "COL_8": "UOP (1°) HPS (3°)",
+            "COL_9": "01:02:20.22 (19°)",
+            "COL_10": "01:02:35.09 (24°)",
+            "COL_11": "01:02:23.94 (24°)",
+            "COL_12": "01:01:27.84 (17°)",
+            "COL_13": "04:08:47.09 * * * * * *",
+            "COL_15": "04:08:47.09 +17:41.11 +00:17.47"
+        },
+        {
+            "COL_1": "18⁰ 117 FABIO TREGANCINI (SP) 04:09:21.17 04:09:21.17 00:59:38.90 00:59:55.99 00:58:52.10 01:10:54.18 * * * +18:15.19 UT3 (3°) Polaris RZR Pro R (6°) (11°) (9°) (31°) * * * +00:34.08 Cotton Racing"
+        },
+        {
+            "COL_1": "19⁰",
+            "COL_2": "132",
+            "COL_3": "MARCO ORTEGA (GO) Polaris RZR Pro R Cotton Racing",
+            "COL_8": "UT3 (4°)",
+            "COL_9": "01:02:48.11 (24°)",
+            "COL_10": "01:02:59.77 (29°)",
+            "COL_11": "01:01:57.51 (23°)",
+            "COL_12": "01:02:01.41 (19°)",
+            "COL_13": "04:09:46.80 * * * * * *",
+            "COL_15": "04:09:46.80 +18:40.82 +00:25.63"
+        },
+        {
+            "COL_1": "20⁰ 156 PEDRO HORT (SC) 04:13:52.30 04:13:52.30 CADU SACHS (SP) UST (1°) 01:01:23.12 01:00:47.91 01:00:23.29 01:11:17.98 * * * +22:46.32 Can-Am Maverick X3 HPS (4°) (17°) (19°) (18°) (32°) * * * +04:05.50 Mh Racing - Motortek - Hps Racing"
+        },
+        {
+            "COL_1": "21⁰",
+            "COL_2": "151",
+            "COL_3": "ALLAN CESTARI (GO) WEIDNER MOREIRA () Polaris RZR Pro R Cotton Racing / Ghia Motorsports",
+            "COL_8": "U55 (2°)",
+            "COL_9": "01:05:16.37 (28°)",
+            "COL_10": "01:03:51.44 (30°)",
+            "COL_11": "01:02:52.96 (27°)",
+            "COL_12": "01:02:38.18 (23°)",
+            "COL_13": "04:14:38.95 * * * * * *",
+            "COL_15": "04:14:38.95 +23:32.97 +00:46.65"
+        },
+        {
+            "COL_1": "22⁰ 155 HELENA DEYAMA (SP) 04:16:07.62 04:18:07.62 01:04:34.61 01:04:17.44 01:03:34.96 01:03:40.61 00:02:00 +27:01.64 UOP (2°) Can-Am Maverick R (27°) (32°) (28°) (26°) * * * +03:28.67 Rally Brasil Racing"
+        },
+        {
+            "COL_1": "23⁰",
+            "COL_2": "153",
+            "COL_3": "ALBERTO CASTRO (BA) FRANCISCO ERINALDO () Polaris RZR Pro R C3 Racing",
+            "COL_8": "UTR (5°)",
+            "COL_9": "01:05:25.43 (29°)",
+            "COL_10": "01:03:52.12 (31°)",
+            "COL_11": "01:06:49.95 (31°)",
+            "COL_12": "01:03:27.49 (25°)",
+            "COL_13": "04:19:34.99 00:00:06 * * *",
+            "COL_15": "04:19:40.99 +28:35.01 +01:33.37"
+        },
+        {
+            "COL_1": "24⁰ 108 RODRIGO MATSUMOTO (MS) 04:28:58.42 04:34:09.42 01:30:00.00 01:00:00.19 00:59:37.92 00:59:20.31 00:05:11 +43:03.44 UT3 (5°) Polaris RZR Pro R (34°) (14°) (14°) (9°) * * * +14:28.43 Cotton Racing"
+        },
+        {
+            "COL_1": "25⁰",
+            "COL_2": "119",
+            "COL_3": "DANIEL TRECENTI (SP) Can-Am Maverick X3 Hps Racing",
+            "COL_8": "UTU (5°) HPS (5°)",
+            "COL_9": "01:02:45.22 (23°)",
+            "COL_10": "01:02:03.26 (22°)",
+            "COL_11": "01:30:00.00 (34°)",
+            "COL_12": "01:02:01.64 (20°)",
+            "COL_13": "04:36:50.12 * * * * * *",
+            "COL_15": "04:36:50.12 +45:44.14 +02:40.70"
+        },
+        {
+            "COL_1": "26⁰ 157 JOSEF FEFFER (AC) 04:32:03.03 04:40:03.03 FABRICIO BIANCHINI (SP) 01:10:04.31 01:08:25.41 01:08:05.74 01:05:27.57 00:08:00 +48:57.05 UTR (6°) Can-Am Maverick R (33°) (34°) (32°) (27°) * * * +03:12.91 Bianchini Rally"
+        },
+        {
+            "COL_1": "27⁰",
+            "COL_2": "131",
+            "COL_3": "MARCOS MIOTTO (SP) Can-Am Maverick R Dust Off Road",
+            "COL_8": "UTU (6°)",
+            "COL_9": "01:00:12.25 (9°)",
+            "COL_10": "01:05:38.95 (33°)",
+            "COL_11": "01:06:37.97 (30°)",
+            "COL_12": "01:05:57.04 (28°)",
+            "COL_13": "04:18:26.21 00:30:00 * * *",
+            "COL_15": "04:48:26.21 +57:20.23 +08:23.18"
+        },
+        {
+            "COL_1": "28⁰ 147 IVAN KUHNEN (SC) 04:37:58.43 04:52:58.43 01:30:00.00 01:02:47.39 01:02:38.81 01:02:32.23 00:15:00 +01:01:52.45 UOP (3°) Can-Am Maverick R (35°) (27°) (26°) (22°) * * * +04:32.22 Vigifort Racing"
+        },
+        {
+            "COL_1": "29⁰",
+            "COL_2": "122",
+            "COL_3": "DANIEL MASILI (SP) - Dust Off Road",
+            "COL_8": "U50 (1°)",
+            "COL_9": "01:07:37.02 (31°)",
+            "COL_10": "01:09:23.71 (35°)",
+            "COL_11": "01:13:06.30 (33°)",
+            "COL_12": "01:09:30.00 (30°)",
+            "COL_13": "04:39:37.03 00:15:00 * * *",
+            "COL_15": "04:54:37.03 +01:03:31.05 +01:38.60"
+        },
+        {
+            "COL_1": "30⁰ 105 MARCUS COTTON (SP) 04:26:29.00 04:56:29.00 01:30:00.00 00:58:39.96 00:58:34.43 00:59:14.61 00:30:00 +01:05:23.02 UT1 (2°) Polaris RZR Pro R (36°) (5°) (7°) (7°) * * * +01:51.97 Cotton Racing / Polaris Factory Racing"
+        },
+        {
+            "COL_1": "31⁰",
+            "COL_2": "142",
+            "COL_3": "RICARDO GALLI (SP) Can-Am Maverick R Cotton Racing",
+            "COL_8": "UT1 (3°)",
+            "COL_9": "01:00:33.03 (12°)",
+            "COL_10": "01:30:00.00 (37°)",
+            "COL_11": "00:58:58.51 (10°)",
+            "COL_12": "00:58:46.45 (5°)",
+            "COL_13": "04:28:17.99 00:30:00 * * *",
+            "COL_15": "04:58:17.99 +01:07:12.01 +01:48.99"
+        },
+        {
+            "COL_1": "32⁰ 134 LEONARDO CASTRO (BA) 04:31:03.78 05:01:03.78 01:00:55.15 01:00:10.59 00:59:58.04 01:30:00.00 00:30:00 +01:09:57.80 UTR (7°) Can-Am Maverick R (16°) (17°) (16°) (34°) * * * +02:45.79 C3 Racing"
+        },
+        {
+            "COL_1": "33⁰",
+            "COL_2": "112",
+            "COL_3": "JUNIOR SIQUEIRA (SP) Polaris RZR Pro R Cotton Racing",
+            "COL_8": "UT2 (2°)",
+            "COL_9": "01:30:00.00 (37°)",
+            "COL_10": "00:58:46.78 (6°)",
+            "COL_11": "00:58:32.40 (6°)",
+            "COL_12": "01:08:15.24 (29°)",
+            "COL_13": "04:35:34.42 00:31:41 * * *",
+            "COL_15": "05:07:15.42 +01:16:09.44 +06:11.64"
+        },
+        {
+            "COL_1": "IV RALLY TERRA VERDE Resultados Oficiais - 07/12/2025 - 15:23 Acumulado - Geral UTV"
+        },
+        {
+            "COL_1": "34⁰ 125 PEDRO BIANOR (MG) 04:58:30.79 05:13:30.79 00:58:41.76 00:59:49.03 01:30:00.00 01:30:00.00 00:15:00 +01:22:24.81 UT1 (4°) Can-Am Maverick R (5°) (9°) (35°) (35°) * * * +06:15.37 Forfun Racing"
+        },
+        {
+            "COL_1": "35⁰",
+            "COL_2": "133",
+            "COL_3": "TOMAZ SANTOS (SP) JEFFERSON TEIXEIRA (PR) Can-Am Maverick X3 Hps Racing",
+            "COL_6": "U55 (3°) HPS (6°)",
+            "COL_7": "01:03:36.16 (26°)",
+            "COL_8": "01:02:58.23 (28°)",
+            "COL_9": "01:30:00.00 (36°)",
+            "COL_10": "01:30:00.00 (36°)",
+            "COL_11": "05:06:34.39 00:30:00 * * *",
+            "COL_14": "05:36:34.39 +01:45:28.41 +23:03.60"
+        },
+        {
+            "COL_1": "36⁰ 101 GUILHERME CYSNE (SP) 04:58:42.88 05:43:42.88 00:59:52.53 00:58:50.35 01:30:00.00 01:30:00.00 00:45:00 +01:52:36.90 UTU (7°) Polaris RZR Pro R (8°) (7°) (37°) (37°) * * * +07:08.49 Gc Rally Team / Polaris Racing Brasil"
+        },
+        {
+            "COL_1": "37⁰",
+            "COL_2": "109",
+            "COL_3": "IVAN FERREIRA (SP) Can-Am Maverick X3 Saframil Rally Team",
+            "COL_6": "UT2 (3°)",
+            "COL_7": "01:07:38.33 (32°)",
+            "COL_8": "01:09:35.93 (36°)",
+            "COL_9": "01:30:00.00 (38°)",
+            "COL_10": "01:20:51.35 (33°)",
+            "COL_11": "05:08:05.61 01:00:00 * * *",
+            "COL_14": "06:08:05.61 +02:16:59.63 +24:22.73"
+        },
+        {
+            "COL_1": "38⁰ 152 RODRIGO BIANCHINI (SP) 05:34:07.98 08:54:07.98 FABIO ZELLER (SP) UDB (4°) 01:30:00.00 01:30:00.00 01:04:07.98 01:30:00.00 03:20:00 +05:03:02.00 Can-Am Maverick X3 HPS (7°) (38°) (38°) (29°) (38°) * * * +02:46:02.37 Hps Racing"
+        },
+        {
+            "COL_1": "Supervisão Produção Apuração Supervisão Produção Apuração",
+            "COL_12": "Supervisão",
+            "COL_15": "Produção",
+            "COL_16": "Apuração"
+        }
+    ]
+}

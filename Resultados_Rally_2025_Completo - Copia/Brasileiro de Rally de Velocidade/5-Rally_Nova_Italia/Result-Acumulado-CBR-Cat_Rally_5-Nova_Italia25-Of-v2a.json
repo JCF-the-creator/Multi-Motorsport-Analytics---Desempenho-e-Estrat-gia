@@ -1,0 +1,55 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-CBR-Cat_Rally_5-Nova_Italia25-Of-v2a.pdf",
+        "INFO_GERAL": "RALLY NOVA ITALIA 18/10/2025 - 18:00:00 | Resultados Oficiais | Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025 | Categoria: Rally 5 | ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km) | Campeonato Brasileiro | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "28",
+            "PILOTO_INFO": "BERNARDO REUWSAAT (RS) SIDINEI BROERING (RS) VW UP Tsi Pro Tune Rally",
+            "(POS)CAT": "(1)RC5",
+            "SS1": "00:08:14.41 (1)",
+            "SS2": "00:11:34.89 (1)",
+            "SS3": "00:08:04.97 (2)",
+            "SS4": "00:11:29.15 (2)",
+            "SS5": "00:08:19.29 (3)",
+            "SS6": "00:11:51.77 (2)",
+            "SS7": "00:15:48.93 (1)",
+            "SS8": "00:15:39.43 (1)",
+            "TEMPO": "01:31:02.84",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:31:02.84"
+        },
+        {
+            "POS": "2",
+            "NUM": "25",
+            "PILOTO_INFO": "TIAGO KLIMACZEWSKI (SC) FELIPE KLIMACZEWSKI (SC) VW UP Tsi K-Sport Rally",
+            "(POS)CAT": "(2)RC5",
+            "SS1": "00:08:25.46 (3)",
+            "SS2": "00:11:47.55 (3)",
+            "SS3": "00:07:57.69 (1)",
+            "SS4": "00:11:27.29 (1)",
+            "SS5": "00:07:49.38 (1)",
+            "SS6": "00:11:18.62 (1)",
+            "SS7": "00:16:26.87 (2)",
+            "SS8": "00:16:49.49 (2)",
+            "TEMPO": "01:32:02.35",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:32:02.35 00:00:59.51"
+        },
+        {
+            "POS": "NC",
+            "NUM": "11",
+            "PILOTO_INFO": "VITOR BOFF (RS) RAFAEL LODEA (RS) Peugeot 207 ACE Rally RS",
+            "(POS)CAT": "(NC)RC5",
+            "SS1": "00:08:21.66 (2)",
+            "SS2": "00:11:46.34 (2)",
+            "SS3": "00:08:12.17 (3)",
+            "SS4": "00:11:33.34 (3)",
+            "SS5": "00:07:59.09 (2)",
+            "PENAL BONUS": "* * * * * *"
+        }
+    ]
+}

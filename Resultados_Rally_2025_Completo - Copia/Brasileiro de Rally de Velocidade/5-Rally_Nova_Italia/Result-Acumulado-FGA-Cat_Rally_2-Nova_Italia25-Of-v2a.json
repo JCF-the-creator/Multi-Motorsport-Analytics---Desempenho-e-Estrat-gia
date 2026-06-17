@@ -1,0 +1,55 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-FGA-Cat_Rally_2-Nova_Italia25-Of-v2a.pdf",
+        "INFO_GERAL": "RALLY NOVA ITALIA 18/10/2025 - 18:00:00 | Resultados Oficiais | Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025 | Categoria: Rally 2 | ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km) | Campeonato Gaucho | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "2",
+            "PILOTO_INFO": "FERNANDO SOLIMANN (RS) FELIPE SOLIMANN (RS) Peugeot 207 XRC Solimann Racing",
+            "(POS)CAT": "(1)RC2",
+            "SS1": "00:08:11.10 (4)",
+            "SS2": "00:11:48.57 (3)",
+            "SS3": "00:08:03.38 (3)",
+            "SS4": "00:11:25.78 (1)",
+            "SS5": "00:07:43.00 (1)",
+            "SS6": "00:11:04.00 (1)",
+            "SS7": "00:15:35.70 (1)",
+            "SS8": "00:15:16.35 (1)",
+            "TEMPO": "01:29:07.88",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:29:07.88"
+        },
+        {
+            "POS": "NC",
+            "NUM": "9",
+            "PILOTO_INFO": "JULIANO SARTORI (RS) RAFAEL SARTORI (RS) VW Polo MR Sartori Rally Team",
+            "(POS)CAT": "(NC)RC2",
+            "SS1": "00:07:24.02 (1)",
+            "SS2": "00:10:20.44 (1)",
+            "SS3": "00:07:21.65 (1)",
+            "SS4": "00:14:07.05 (2)",
+            "PENAL BONUS": "* * * * * *"
+        },
+        {
+            "POS": "NC",
+            "NUM": "20",
+            "PILOTO_INFO": "ALEXANDRE HORN (RS) GILSON YOSHIMURA (RS) Lancer EVO X Cl?nica Horn/UB Rally",
+            "(POS)CAT": "(NC)RC2",
+            "SS1": "00:07:55.74 (3)",
+            "SS2": "00:11:13.22 (2)",
+            "SS3": "00:07:57.43 (2)",
+            "PENAL BONUS": "* * * * * *"
+        },
+        {
+            "POS": "NC",
+            "NUM": "22",
+            "PILOTO_INFO": "MILTON PAGLIOSA (RS) VINICIUS ANZILIERO (RS) Lancer EVO X EMA Racing",
+            "(POS)CAT": "(NC)RC2",
+            "SS1": "00:07:28.39 (2)",
+            "PENAL BONUS": "* * * * * *"
+        }
+    ]
+}

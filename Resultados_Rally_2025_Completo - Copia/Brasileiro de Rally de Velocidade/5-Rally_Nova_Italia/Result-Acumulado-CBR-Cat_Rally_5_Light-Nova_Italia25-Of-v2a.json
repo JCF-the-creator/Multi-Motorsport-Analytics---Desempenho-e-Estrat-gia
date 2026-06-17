@@ -1,0 +1,31 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-CBR-Cat_Rally_5_Light-Nova_Italia25-Of-v2a.pdf",
+        "INFO_GERAL": "RALLY NOVA ITALIA 18/10/2025 - 18:00:00 | Resultados Oficiais | Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025 | Categoria: Rally 5 Light | ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km) | Campeonato Brasileiro | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "NC",
+            "NUM": "208",
+            "PILOTO_INFO": "ALEXANDRE MARTINI (RS) EVANDRO FRIGO (SC) Peugeot 207 HB Rally Nova Prata",
+            "(POS)CAT": "(NC)R5L",
+            "SS1": "00:08:20.24 (1)",
+            "SS2": "00:11:37.83 (1)",
+            "SS3": "00:08:05.60 (1)",
+            "SS4": "00:11:30.63 (1)",
+            "SS5": "00:08:04.86 (1)",
+            "SS6": "00:11:34.62 (1)",
+            "PENAL BONUS": "* * * * * *"
+        },
+        {
+            "POS": "NC",
+            "NUM": "44",
+            "PILOTO_INFO": "EDUARDO TONIAL (RS) MURILO SPIRONELO (RS) Peugeot 206 ACE / Tonial / GTS",
+            "(POS)CAT": "(NC)R5L",
+            "SS1": "00:08:20.91 (2)",
+            "SS2": "00:11:54.38 (2)",
+            "PENAL BONUS": "* * * * * *"
+        }
+    ]
+}

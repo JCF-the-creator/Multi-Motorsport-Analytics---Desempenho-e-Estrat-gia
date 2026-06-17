@@ -1,0 +1,17 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-CBR-Cat_Rally_4-Nova_Italia25-Of-v2a.pdf",
+        "INFO_GERAL": "RALLY NOVA ITALIA 18/10/2025 - 18:00:00 | Resultados Oficiais | Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025 | Categoria: Rally 4 | ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km) | Campeonato Brasileiro | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "NC",
+            "NUM": "15",
+            "PILOTO_INFO": "LEANDRO BRUSTOLIN (RS) ANDREY KARPINSKI (RS) Renault Clio ACE/Fly Competition",
+            "(POS)CAT": "(NC)RC4",
+            "SS1": "00:08:01.42 (1)",
+            "PENAL BONUS": "* * * * * *"
+        }
+    ]
+}

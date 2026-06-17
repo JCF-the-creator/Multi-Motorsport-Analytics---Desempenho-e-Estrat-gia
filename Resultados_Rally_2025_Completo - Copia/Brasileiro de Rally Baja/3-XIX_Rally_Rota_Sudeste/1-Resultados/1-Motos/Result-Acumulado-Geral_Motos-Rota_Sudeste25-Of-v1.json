@@ -1,0 +1,218 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado-Geral_Motos-Rota_Sudeste25-Of-v1.pdf",
+        "INFO_GERAL": "XIX RALLY ROTA SUDESTE 06/07/2025 - 14:08:39 | Campeonato Brasileiro de Rally Baja 2025 Resultados Oficiais | ACUMULADO ATÉ DIA 2: Barra Bonita/SP - (218.02km) Geral - Motos | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "29",
+            "PILOTO_INFO": "NICOLAS RODRIGUEZ (RJ) Honda CRF 450 Pro Tech Racing",
+            "(POS)CAT": "(1)MT2",
+            "DIA 1": "01:31:35.78 (1)",
+            "DIA 2": "01:30:41.18 (1)",
+            "TEMPO": "03:02:16.96",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:02:16.96"
+        },
+        {
+            "POS": "2",
+            "NUM": "22",
+            "PILOTO_INFO": "GUILHERME BISSOTTO (BA) Yamaha WR 450F Gatto Racing",
+            "(POS)CAT": "(1)MT1",
+            "DIA 1": "01:43:49.69 (7)",
+            "DIA 2": "01:31:41.05 (2)",
+            "TEMPO": "03:00:30.74",
+            "PENAL BONUS": "00:15:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:15:30.74 00:13:13.78"
+        },
+        {
+            "POS": "3",
+            "NUM": "2",
+            "PILOTO_INFO": "BRUNO ARRUDA (SP) GasGas EC 500 Mult Racing",
+            "(POS)CAT": "(2)MT1",
+            "DIA 1": "01:39:30.33 (3)",
+            "DIA 2": "01:39:14.74 (4)",
+            "TEMPO": "03:18:45.07",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:18:45.07 00:16:28.11 00:03:14.33"
+        },
+        {
+            "POS": "4",
+            "NUM": "1",
+            "PILOTO_INFO": "FRANCINE ROSSI (MG) GasGas 500 Mult Racing",
+            "(POS)CAT": "(1)MOV",
+            "DIA 1": "01:44:39.88 (9)",
+            "DIA 2": "01:35:07.36 (3)",
+            "TEMPO": "03:04:47.24",
+            "PENAL BONUS": "00:15:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:19:47.24 00:17:30.28 00:01:02.17"
+        },
+        {
+            "POS": "5",
+            "NUM": "14",
+            "PILOTO_INFO": "LUIZ HENRIQUE CUNHA (SP) Honda CRF 450RX Spot Racing",
+            "(POS)CAT": "(1)MT3",
+            "DIA 1": "01:41:17.40 (4)",
+            "DIA 2": "01:40:07.21 (5)",
+            "TEMPO": "03:21:24.61",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:21:24.61 00:19:07.65 00:01:37.37"
+        },
+        {
+            "POS": "6",
+            "NUM": "32",
+            "PILOTO_INFO": "MAURICIO GHIRALDELLI (SP) GasGas EC 500 Mult Racing",
+            "(POS)CAT": "(2)MOV",
+            "DIA 1": "01:41:27.94 (5)",
+            "DIA 2": "01:40:31.94 (6)",
+            "TEMPO": "03:21:59.88",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:21:59.88 00:19:42.92 00:00:35.27"
+        },
+        {
+            "POS": "7",
+            "NUM": "23",
+            "PILOTO_INFO": "THEO LOPES (SP) KTM EXC 450 Mult Racing",
+            "(POS)CAT": "(3)MOV",
+            "DIA 1": "01:39:20.88 (2)",
+            "DIA 2": "01:44:33.02 (9)",
+            "TEMPO": "03:23:53.90",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:23:53.90 00:21:36.94 00:01:54.02"
+        },
+        {
+            "POS": "8",
+            "NUM": "16",
+            "PILOTO_INFO": "MARCIO DI PAOLO (SP) GasGas EC 500F Mult Racing",
+            "(POS)CAT": "(2)MT2",
+            "DIA 1": "01:42:31.44 (6)",
+            "DIA 2": "01:44:23.05 (8)",
+            "TEMPO": "03:26:54.49",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:26:54.49 00:24:37.53 00:03:00.59"
+        },
+        {
+            "POS": "9",
+            "NUM": "28",
+            "PILOTO_INFO": "PAOLO SFORZA (BA) Kawasaki KX 450 X Italia",
+            "(POS)CAT": "(2)MT3",
+            "DIA 1": "01:46:21.57 (10)",
+            "DIA 2": "01:41:18.36 (7)",
+            "TEMPO": "03:24:39.93",
+            "PENAL BONUS": "00:03:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:27:39.93 00:25:22.97 00:00:45.44"
+        },
+        {
+            "POS": "10",
+            "NUM": "6",
+            "PILOTO_INFO": "FELIPE LIMONTA (SP) Honda Tornado 300 Lmt/Honda Motofield",
+            "(POS)CAT": "(1)MBR",
+            "DIA 1": "01:44:22.17 (8)",
+            "DIA 2": "01:48:23.98 (12)",
+            "TEMPO": "03:26:46.15",
+            "PENAL BONUS": "00:06:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:32:46.15 00:30:29.19 00:05:06.22"
+        },
+        {
+            "POS": "11",
+            "NUM": "30",
+            "PILOTO_INFO": "LENILTON ARAUJO (SP) GasGas EC 350 Mult Racing",
+            "(POS)CAT": "(3)MT3",
+            "DIA 1": "01:48:53.23 (11)",
+            "DIA 2": "01:46:27.10 (10)",
+            "TEMPO": "03:35:20.33",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:35:20.33 00:33:03.37 00:02:34.18"
+        },
+        {
+            "POS": "12",
+            "NUM": "5",
+            "PILOTO_INFO": "THIAGO OSTORERO (SP) GasGas EC 500 Mult Racing",
+            "(POS)CAT": "(3)MT2",
+            "DIA 1": "01:49:31.07 (12)",
+            "DIA 2": "01:48:23.67 (11)",
+            "TEMPO": "03:37:54.74",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:37:54.74 00:35:37.78 00:02:34.41"
+        },
+        {
+            "POS": "13",
+            "NUM": "26",
+            "PILOTO_INFO": "MILTON MEDINA (SP) Honda CRF 250 Dust/Terremotos",
+            "(POS)CAT": "(2)MBR",
+            "DIA 1": "01:50:07.34 (13)",
+            "DIA 2": "01:54:18.18 (14)",
+            "TEMPO": "03:44:25.52",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:44:25.52 00:42:08.56 00:06:30.78"
+        },
+        {
+            "COL_1": "14",
+            "COL_2": "13",
+            "COL_3": "RICARDO NASCIMENTO (SP) GasGas EC 450 Mult Racing",
+            "COL_5": "(4)MT3",
+            "COL_6": "01:52:48.41 (14)",
+            "COL_7": "01:55:44.59 (15)",
+            "COL_8": "03:44:33.00",
+            "COL_9": "00:04:00.00 * * *",
+            "COL_10": "03:48:33.00 00:46:16.04 00:04:07.48"
+        },
+        {
+            "COL_1": "15",
+            "COL_2": "31",
+            "COL_3": "KARINNA GROSS (SP) GasGas EC 450 Mult Racing",
+            "COL_5": "(5)MT3",
+            "COL_6": "02:08:39.83 (15)",
+            "COL_7": "01:59:57.54 (16)",
+            "COL_8": "04:08:37.37",
+            "COL_9": "* * * * * *",
+            "COL_10": "04:08:37.37 01:06:20.41 00:20:04.37"
+        },
+        {
+            "COL_1": "16",
+            "COL_2": "34",
+            "COL_3": "GUILHERME PUGLIESI (SP) Kawasaki KX 450x Trilha Race",
+            "COL_5": "(4)MOV",
+            "COL_6": "02:28:55.16 (17)",
+            "COL_7": "01:54:12.26 (13)",
+            "COL_8": "03:50:31.42",
+            "COL_9": "00:32:36.00 * * *",
+            "COL_10": "04:23:07.42 01:20:50.46 00:14:30.05"
+        },
+        {
+            "COL_1": "17",
+            "COL_2": "8",
+            "COL_3": "JOSE LIMONTA (SP) Honda CRF 250 Lmt/Honda Motofield",
+            "COL_5": "(3)MBR",
+            "COL_6": "02:18:10.22 (16)",
+            "COL_7": "02:11:57.65 (17)",
+            "COL_8": "04:26:58.87",
+            "COL_9": "00:03:09.00 * * *",
+            "COL_10": "04:30:07.87 01:27:50.91 00:07:00.45"
+        },
+        {
+            "COL_1": "18",
+            "COL_2": "35",
+            "COL_3": "RODRIGO ESPINHA (SP) Honda CRF 250F Lmt/Honda Motofield",
+            "COL_5": "(4)MBR",
+            "COL_6": "02:48:28.72 (18)",
+            "COL_7": "02:20:38.84 (18)",
+            "COL_8": "04:28:07.56",
+            "COL_9": "00:41:00.00 * * *",
+            "COL_10": "05:09:07.56 02:06:50.60 00:38:59.69"
+        },
+        {
+            "COL_1": "19",
+            "COL_2": "36",
+            "COL_3": "RAFAEL KRUKOSKI (SC) Ducati Desert X Msl Rally Team",
+            "COL_5": "(1)MBT",
+            "COL_6": "03:10:00.00 (19)",
+            "COL_7": "06:40:00.00 (19)",
+            "COL_8": "05:20:00.00",
+            "COL_9": "04:30:00.00 * * *",
+            "COL_10": "09:50:00.00 06:47:43.04 04:40:52.44"
+        }
+    ]
+}
