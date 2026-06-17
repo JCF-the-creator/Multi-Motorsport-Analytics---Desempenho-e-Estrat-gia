@@ -1,0 +1,52 @@
+{
+    "CABECALHO": {
+        "EVENTO": "Resultados Extra-Oficiais",
+        "CAMPEONATO": "Campeonato Brasileiro de Rally Raid 2025",
+        "RELATORIO": "Categoria Triton Sport R",
+        "DATA_EMISSAO": "ACUMULADO ATÉ Dia 6: Petrolina/PE - Delmiro Gouveia/AL (1676.9km)",
+        "STATUS": "Resultados Oficiais",
+        "CATEGORIA_GERAL": ""
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NO": "367",
+            "PILOTO_INFO": "JOSE CARLOS SCHORR (BRA)\nJOSE CARLOS BONDAN (BRA)\nMITSUBISHI L200 TRITON\nBERTOLINI RACING",
+            "COLUNA_4": "",
+            "COLUNA_5": "",
+            "CAT": "(1)TSR",
+            "DIA 1": "05:08:05.94\n(1)",
+            "DIA 2": "04:42:45.10\n(2)",
+            "DIA 3": "05:44:14.46\n(2)",
+            "COLUNA_10": "",
+            "DIA 4": "06:06:34.84\n(2)",
+            "DIA 5": "08:27:30.00\n(1)",
+            "DIA 6": "04:40:32.39\n(2)",
+            "COLUNA_14": "",
+            "TEMPO": "31:19:24.70",
+            "COLUNA_16": "",
+            "PENAL": "03:39:30.00\n00:09:12.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "34:49:42.73"
+        },
+        {
+            "POS": "2",
+            "NO": "337",
+            "PILOTO_INFO": "PAULO BERTOLINI (BRA)\nANDERSON BERTOLINI (BRA)\nMITSUBISHI L200 TRITON\nBERTOLINI RACING",
+            "COLUNA_4": "",
+            "COLUNA_5": "",
+            "CAT": "(2)TSR",
+            "DIA 1": "09:37:30.00\n(2)",
+            "DIA 2": "04:32:57.29\n(1)",
+            "DIA 3": "05:27:56.89\n(1)",
+            "COLUNA_10": "",
+            "DIA 4": "05:42:37.88\n(1)",
+            "DIA 5": "14:30:00.00\n(2)",
+            "DIA 6": "04:05:22.64\n(1)",
+            "COLUNA_14": "",
+            "TEMPO": "30:09:43.70",
+            "COLUNA_16": "",
+            "PENAL": "13:47:30.00\n00:00:49.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "43:56:24.70\n09:06:41.97"
+        }
+    ]
+}
