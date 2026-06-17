@@ -1,0 +1,57 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Dia_3-Acumulado-Geral_Carros-MB25-Of-v1.pdf",
+        "INFO_GERAL": "XXVII RALLY RN 1500 17/05/2025 - 17:08:15 | Campeonato Brasileiro de Rally Raid 2025 Resultados Oficiais | ACUMULADO ATÉ DIA 3: Araxa/MG - (525.85km) Geral Carros | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "318",
+            "PILOTO_INFO": "LUIZ NACIF ERICK SILVEIRA Ford Ranger EXR Rally Team",
+            "(POS)CAT": "(1)T11",
+            "DIA 1": "02:39:35.36 (2)",
+            "DIA 2": "02:07:46.91 (1)",
+            "DIA 3": "02:23:16.84 (1)",
+            "TEMPO": "07:08:39.11",
+            "PENAL BONUS": "00:02:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "07:10:39.11"
+        },
+        {
+            "POS": "2",
+            "NUM": "360",
+            "PILOTO_INFO": "MARIO MARCONDES ARTEMIO PAULUCI Ford Ranger BCM",
+            "(POS)CAT": "(1)UBR",
+            "DIA 1": "02:37:20.37 (1)",
+            "DIA 2": "02:13:15.00 (2)",
+            "DIA 3": "02:27:47.55 (2)",
+            "TEMPO": "07:18:22.92",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "07:18:22.92 00:07:43.81"
+        },
+        {
+            "POS": "3",
+            "NUM": "321",
+            "PILOTO_INFO": "LELIO CARNEIRO WEBERTH MOREIRA Can-Am Maverick R Fifi Rally Team",
+            "(POS)CAT": "(1)CHL",
+            "DIA 1": "04:10:00.00 (3)",
+            "DIA 2": "02:19:55.07 (3)",
+            "DIA 3": "02:33:54.72 (3)",
+            "TEMPO": "08:13:49.79",
+            "PENAL BONUS": "00:50:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "09:03:49.79 01:53:10.68 01:45:26.87"
+        },
+        {
+            "POS": "4",
+            "NUM": "384",
+            "PILOTO_INFO": "ALBERTO CUNHA CELSO WATASHI Mitsubishi Triton RS Faster Rally Team",
+            "(POS)CAT": "(1)UPR",
+            "DIA 1": "04:30:00.00 (4)",
+            "DIA 2": "02:23:06.37 (4)",
+            "DIA 3": "02:58:43.12 (4)",
+            "TEMPO": "08:41:49.49",
+            "PENAL BONUS": "01:10:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "09:51:49.49 02:41:10.38 00:47:59.70"
+        }
+    ]
+}

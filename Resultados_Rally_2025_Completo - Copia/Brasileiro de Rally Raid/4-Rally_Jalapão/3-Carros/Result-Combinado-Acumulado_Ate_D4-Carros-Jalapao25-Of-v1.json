@@ -1,0 +1,134 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Combinado-Acumulado_Ate_D4-Carros-Jalapao25-Of-v1.pdf",
+        "INFO_GERAL": "XI RALLY JALAPAO 20/06/2025 - 10:42:00 | Campeonato Brasileiro de Rally Raid 2025 Resultados Oficiais | ACUMULADO ATÉ Dia 4: Sao Felix do Tocantins/TO - Palmas/TO (740.36km) Geral - Carros | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "302",
+            "PILOTO_INFO": "MARCOS BAUMGART (SP) ALBERTO ANDREOTTI (SP) Toyota Hilux GR DKR Sizmic Racing",
+            "(POS)CAT": "(1)T11",
+            "DIA 1": "02:44:21.36 (1)",
+            "DIA 2": "02:10:27.60 (1)",
+            "DIA 3": "02:02:11.89 (1)",
+            "DIA 4": "01:30:53.62 (1)",
+            "TEMPO": "08:33:52.47",
+            "PENAL BONUS": "00:02:00.00 00:07:58.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "08:27:54.47"
+        },
+        {
+            "POS": "2",
+            "NUM": "304",
+            "PILOTO_INFO": "PEDRO QUEIROLO (SP) LAURO SOBREIRA (CE) Giaffone Buggy V8 R Mattheis Offroad",
+            "(POS)CAT": "(1)UBR",
+            "DIA 1": "02:45:18.32 (2)",
+            "DIA 2": "02:11:57.41 (2)",
+            "DIA 3": "02:25:13.45 (3)",
+            "DIA 4": "01:45:09.97 (2)",
+            "TEMPO": "09:07:39.15",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "09:07:39.15 00:39:44.68"
+        },
+        {
+            "POS": "3",
+            "NUM": "394",
+            "PILOTO_INFO": "MARIO MARCONDES (PR) ARTEMIO PAULUCI (PR) Ford Ranger Sizmic Braco Curto Motorsports",
+            "(POS)CAT": "(2)UBR",
+            "DIA 1": "02:56:20.99 (3)",
+            "DIA 2": "02:43:12.61 (3)",
+            "DIA 3": "02:30:22.58 (4)",
+            "DIA 4": "02:07:05.55 (3)",
+            "TEMPO": "10:06:51.73",
+            "PENAL BONUS": "00:10:10.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "10:17:01.73 01:49:07.26 01:09:22.58"
+        },
+        {
+            "POS": "4",
+            "NUM": "326",
+            "PILOTO_INFO": "PEDRO PRADO (SP) JOSI KOERICH (SC) Ford RangerSizmic Sizmic Racing",
+            "(POS)CAT": "(3)UBR",
+            "DIA 1": "06:18:00.00 (4)",
+            "DIA 2": "03:14:07.90 (4)",
+            "DIA 3": "02:18:25.59 (2)",
+            "DIA 4": "02:08:01.48 (4)",
+            "TEMPO": "12:20:34.97",
+            "PENAL BONUS": "01:38:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "13:58:34.97 05:30:40.50 03:41:33.24"
+        },
+        {
+            "POS": "5",
+            "NUM": "365",
+            "PILOTO_INFO": "JOAO GUTEMBERG (PI) MARCUS VINICIUS (PI) Mitsubishi L200 Triton Cadasso Racing",
+            "(POS)CAT": "(1)STC",
+            "DIA 1": "14:00:00.00 (5)",
+            "DIA 2": "04:35:00.00 (5)",
+            "DIA 3": "03:58:38.62 (5)",
+            "DIA 4": "03:39:31.00 (5)",
+            "TEMPO": "15:13:38.62",
+            "PENAL BONUS": "12:35:00.00 01:35:29.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "26:13:09.62 17:45:15.15 12:14:34.65"
+        },
+        {
+            "POS": "1",
+            "NUM": "302",
+            "PILOTO_INFO": "MARCOS BAUMGART (SP) ALBERTO ANDREOTTI (SP) Toyota Hilux GR DKR Sizmic Racing",
+            "DIA 1": "02:44:21.36 (1)",
+            "DIA 2": "02:10:27.60 (1)",
+            "DIA 3": "02:02:11.89 (1)",
+            "DIA 4": "01:30:53.62 (1)",
+            "TEMPO": "08:33:52.47",
+            "PENAL BONUS": "00:02:00.00 00:07:58.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "08:27:54.47"
+        },
+        {
+            "POS": "1",
+            "NUM": "304",
+            "PILOTO_INFO": "PEDRO QUEIROLO (SP) LAURO SOBREIRA (CE) Giaffone Buggy V8 R Mattheis Offroad",
+            "DIA 1": "02:45:18.32 (1)",
+            "DIA 2": "02:11:57.41 (1)",
+            "DIA 3": "02:25:13.45 (2)",
+            "DIA 4": "01:45:09.97 (1)",
+            "TEMPO": "09:07:39.15",
+            "PENAL BONUS": "* * * * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "09:07:39.15"
+        },
+        {
+            "POS": "2",
+            "NUM": "394",
+            "PILOTO_INFO": "MARIO MARCONDES (PR) ARTEMIO PAULUCI (PR) Ford Ranger Sizmic Braco Curto Motorsports",
+            "DIA 1": "02:56:20.99 (2)",
+            "DIA 2": "02:43:12.61 (2)",
+            "DIA 3": "02:30:22.58 (3)",
+            "DIA 4": "02:07:05.55 (2)",
+            "TEMPO": "10:06:51.73",
+            "PENAL BONUS": "00:10:10.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "10:17:01.73 01:09:22.58"
+        },
+        {
+            "POS": "3",
+            "NUM": "326",
+            "PILOTO_INFO": "PEDRO PRADO (SP) JOSI KOERICH (SC) Ford RangerSizmic Sizmic Racing",
+            "DIA 1": "06:18:00.00 (3)",
+            "DIA 2": "03:14:07.90 (3)",
+            "DIA 3": "02:18:25.59 (1)",
+            "DIA 4": "02:08:01.48 (3)",
+            "TEMPO": "12:20:34.97",
+            "PENAL BONUS": "01:38:00.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "13:58:34.97 04:50:55.82 03:41:33.24"
+        },
+        {
+            "POS": "1",
+            "NUM": "365",
+            "PILOTO_INFO": "JOAO GUTEMBERG (PI) MARCUS VINICIUS (PI) Mitsubishi L200 Triton Cadasso Racing",
+            "DIA 1": "14:00:00.00 (1)",
+            "DIA 2": "04:35:00.00 (1)",
+            "DIA 3": "03:58:38.62 (1)",
+            "DIA 4": "03:39:31.00 (1)",
+            "TEMPO": "15:13:38.62",
+            "PENAL BONUS": "12:35:00.00 01:35:29.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "26:13:09.62"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Carros-Barretos25-ExOf-v1.pdf",
+        "INFO_GERAL": "XV RALLY BARRETOS 16/03/2025 - 11:21:26 | Campeonato Brasileiro de Rally Raid 2025 Resultados Extra-Oficiais | ACUMULADO ATÉ DIA 2: Barretos/SP - (272.81km) Geral Carros | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "301",
+            "PILOTO_INFO": "MARCOS BAUMGART (SP) KLEBER CINCEA (SP) Toyota Hilux Gr Dkr X Rally Team Motorsport",
+            "(POS)CAT": "(1)T1",
+            "DIA 1": "01:33:35.03 (1)",
+            "DIA 2": "01:47:22.57 (1)",
+            "TEMPO": "03:25:12.60",
+            "PENAL BONUS": "* * * 00:04:15.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:20:57.60"
+        },
+        {
+            "POS": "2",
+            "NUM": "304",
+            "PILOTO_INFO": "PEDRO QUEIROLO (SP) LAURO SOBREIRA (CE) Buggy Giafonne V8 Rmattheis / Multi Solution",
+            "(POS)CAT": "(1)UBR",
+            "DIA 1": "01:35:45.38 (2)",
+            "DIA 2": "01:51:06.49 (2)",
+            "TEMPO": "03:34:21.87",
+            "PENAL BONUS": "* * * 00:07:30.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:26:51.87 00:05:54.27"
+        },
+        {
+            "POS": "3",
+            "NUM": "360",
+            "PILOTO_INFO": "MARIO MARCONDES (PR) ARTEMIO PAULUCI (PR) X Rally Ranger Bcm",
+            "(POS)CAT": "(2)UBR",
+            "DIA 1": "01:37:33.97 (3)",
+            "DIA 2": "01:57:06.69 (3)",
+            "TEMPO": "03:39:07.66",
+            "PENAL BONUS": "* * * 00:04:27.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:34:40.66 00:13:43.06 00:07:48.79"
+        },
+        {
+            "POS": "4",
+            "NUM": "371",
+            "PILOTO_INFO": "CRISTIANO ROCHA (BA) ANDERSON GERALDI (BA) Mitsubishi L200 R Accert Competicoes",
+            "(POS)CAT": "(1)UPR",
+            "DIA 1": "01:47:33.35 (4)",
+            "DIA 2": "02:00:49.81 (5)",
+            "TEMPO": "03:52:15.16",
+            "PENAL BONUS": "* * * 00:03:52.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:48:23.16 00:27:25.56 00:13:42.50"
+        },
+        {
+            "POS": "5",
+            "NUM": "365",
+            "PILOTO_INFO": "ALESSANDRO TOZONI (SP) CRISTINA BORDINI (SP) T-Rex Faster Rally Team",
+            "(POS)CAT": "(3)UBR",
+            "DIA 1": "01:59:01.58 (7)",
+            "DIA 2": "02:00:23.49 (4)",
+            "TEMPO": "03:59:43.07",
+            "PENAL BONUS": "00:04:00.00 00:04:18.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "03:59:25.07 00:38:27.47 00:11:01.91"
+        },
+        {
+            "POS": "6",
+            "NUM": "361",
+            "PILOTO_INFO": "KAIO TOLEDO (SP) ALINE GARRIDO (SP) Mitsubishi Triton Sport R Accert Competicoes",
+            "(POS)CAT": "(1)STC",
+            "DIA 1": "01:57:06.73 (6)",
+            "DIA 2": "02:11:25.41 (6)",
+            "TEMPO": "04:12:42.14",
+            "PENAL BONUS": "00:01:00.00 00:05:10.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "04:08:32.14 00:47:34.54 00:09:07.07"
+        },
+        {
+            "POS": "7",
+            "NUM": "362",
+            "PILOTO_INFO": "GUTEMBERG ROCHA (CE) MARCUS CHAGAS (CE) Mitsubishi Triton Sport R Accert Competicoes",
+            "(POS)CAT": "(2)STC",
+            "DIA 1": "01:51:41.74 (5)",
+            "DIA 2": "03:20:00.00 (8)",
+            "TEMPO": "04:36:21.74",
+            "PENAL BONUS": "00:40:00.00 00:04:40.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "05:11:41.74 01:50:44.14 01:03:09.60"
+        },
+        {
+            "POS": "8",
+            "NUM": "328",
+            "PILOTO_INFO": "PIETRO BRANCHINA (SP) CAIO BOSCO (SP) Mitsubishi Triton Sport R Ng Rally Team",
+            "(POS)CAT": "(3)STC",
+            "DIA 1": "04:14:44.35 (8)",
+            "DIA 2": "02:23:31.41 (7)",
+            "TEMPO": "04:53:55.76",
+            "PENAL BONUS": "01:48:00.00 00:03:40.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "06:38:15.76 03:17:18.16 01:26:34.02"
+        }
+    ]
+}

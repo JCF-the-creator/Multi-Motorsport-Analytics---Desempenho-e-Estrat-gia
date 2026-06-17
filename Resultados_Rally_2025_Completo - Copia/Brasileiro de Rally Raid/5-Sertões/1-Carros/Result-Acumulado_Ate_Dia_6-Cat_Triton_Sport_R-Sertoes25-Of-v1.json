@@ -1,0 +1,39 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado_Ate_Dia_6-Cat_Triton_Sport_R-Sertoes25-Of-v1.pdf",
+        "INFO_GERAL": "SERTOES PETROBRAS 03/08/2025 - 09:21:41 | Resultados Extra-Oficiais | Campeonato Brasileiro de Rally Raid 2025 | Categoria Triton Sport R | ACUMULADO ATÉ Dia 6: Petrolina/PE - Delmiro Gouveia/AL (1676.9km) | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "367",
+            "PILOTO_INFO": "JOSE CARLOS SCHORR (BRA) JOSE CARLOS BONDAN (BRA) MITSUBISHI L200 TRITON BERTOLINI RACING",
+            "(POS)CAT": "(1)TSR",
+            "DIA 1": "05:08:05.94 (1)",
+            "DIA 2": "04:42:45.10 (2)",
+            "DIA 3": "05:44:14.46 (2)",
+            "DIA 4": "06:06:34.84 (2)",
+            "DIA 5": "08:27:30.00 (1)",
+            "DIA 6": "04:40:32.39 (2)",
+            "TEMPO": "31:19:24.70",
+            "PENAL BONUS": "03:39:30.00 00:09:12.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "34:49:42.73"
+        },
+        {
+            "POS": "2",
+            "NUM": "337",
+            "PILOTO_INFO": "PAULO BERTOLINI (BRA) ANDERSON BERTOLINI (BRA) MITSUBISHI L200 TRITON BERTOLINI RACING",
+            "(POS)CAT": "(2)TSR",
+            "DIA 1": "09:37:30.00 (2)",
+            "DIA 2": "04:32:57.29 (1)",
+            "DIA 3": "05:27:56.89 (1)",
+            "DIA 4": "05:42:37.88 (1)",
+            "DIA 5": "14:30:00.00 (2)",
+            "DIA 6": "04:05:22.64 (1)",
+            "TEMPO": "30:09:43.70",
+            "PENAL BONUS": "13:47:30.00 00:00:49.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "43:56:24.70 09:06:41.97"
+        }
+    ]
+}

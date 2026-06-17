@@ -1,0 +1,79 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-Acumulado_Ate_D6-Cat. Quadriciclos-Sertoes25-Of-v1.pdf",
+        "INFO_GERAL": "SERTOES PETROBRAS 02/08/2025 - 21:31:21 | Resultados Extra-Oficiais | Campeonato Brasileiro Rally Raid 2025 | Categoria: Rally Quadriciclos | ACUMULADO ATÉ Dia 6: Petrolina/PE - Delmiro Gouveia/AL (1700.65km) | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "61",
+            "PILOTO_INFO": "MARCELO MEDEIROS (BRA) YAMAHA RAPTOR 700R MEDS RACING",
+            "DIA 1": "04:33:16.33 (1)",
+            "DIA 2": "04:29:59.83 (1)",
+            "DIA 3": "05:22:47.55 (1)",
+            "DIA 4": "05:34:34.06 (1)",
+            "DIA 5": "04:20:28.63 (1)",
+            "DIA 6": "04:19:59.52 (1)",
+            "TEMPO": "28:48:05.90",
+            "PENAL BONUS": "* * * 00:07:00.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "28:41:05.92"
+        },
+        {
+            "POS": "2",
+            "NUM": "63",
+            "PILOTO_INFO": "HELIO PESSOA (BRA) YAMAHA RAPTOR 700R FIFTH AVENUE RACING",
+            "DIA 1": "04:54:42.52 (2)",
+            "DIA 2": "04:44:19.10 (5)",
+            "DIA 3": "06:45:15.00 (4)",
+            "DIA 4": "05:50:08.30 (3)",
+            "DIA 5": "04:35:38.61 (2)",
+            "DIA 6": "04:34:11.07 (2)",
+            "TEMPO": "31:07:10.60",
+            "PENAL BONUS": "00:36:00.00 00:18:56.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "31:24:14.60 02:43:08.68"
+        },
+        {
+            "POS": "3",
+            "NUM": "62",
+            "PILOTO_INFO": "FELIPE DIAS VIANA (BRA) YAMAHA RAPTOR 700R VF RALLY TEAM",
+            "DIA 1": "05:14:34.97 (5)",
+            "DIA 2": "04:34:33.69 (2)",
+            "DIA 3": "05:52:57.56 (3)",
+            "DIA 4": "06:01:27.22 (4)",
+            "DIA 5": "04:44:09.38 (3)",
+            "DIA 6": "05:10:00.00 (3)",
+            "TEMPO": "32:06:37.80",
+            "PENAL BONUS": "00:00:15.00 00:29:10.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "31:37:42.82 02:56:36.90 00:13:28.22"
+        },
+        {
+            "POS": "4",
+            "NUM": "65",
+            "PILOTO_INFO": "VICTOR STUDART (BRA) YAMAHA RAPTOR 700R VF RALLY TEAM",
+            "DIA 1": "05:09:09.12 (4)",
+            "DIA 2": "04:36:47.79 (4)",
+            "DIA 3": "05:34:47.40 (2)",
+            "DIA 4": "05:40:06.69 (2)",
+            "DIA 5": "06:20:00.00 (4)",
+            "DIA 6": "11:40:00.00 (4)",
+            "TEMPO": "31:19:42.00",
+            "PENAL BONUS": "08:01:42.00 00:20:33.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "39:00:51.00 10:19:45.08 07:23:08.18"
+        },
+        {
+            "POS": "5",
+            "NUM": "64",
+            "PILOTO_INFO": "WESCLEY DUTRA (BRA) YAMAHA RAPTOR 700R QUADRI RACING",
+            "DIA 1": "04:58:29.96 (3)",
+            "DIA 2": "04:35:13.35 (3)",
+            "DIA 3": "07:40:00.00 (5)",
+            "DIA 4": "17:40:00.00 (5)",
+            "DIA 5": "11:20:00.00 (5)",
+            "DIA 6": "11:40:00.00 (4)",
+            "TEMPO": "31:59:57.30",
+            "PENAL BONUS": "26:01:10.00 00:07:24.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "57:53:43.31 29:12:37.39 18:52:52.31"
+        }
+    ]
+}

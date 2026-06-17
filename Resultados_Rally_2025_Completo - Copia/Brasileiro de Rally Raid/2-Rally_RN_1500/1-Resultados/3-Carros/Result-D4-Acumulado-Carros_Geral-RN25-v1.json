@@ -1,0 +1,61 @@
+{
+    "CABECALHO": {
+        "COMPETICAO": "Rally Barretos 2025",
+        "ARQUIVO_ORIGEM": "Result-D4-Acumulado-Carros_Geral-RN25-v1.pdf",
+        "INFO_GERAL": "XXVII RALLY RN 1500 11/04/2025 - 20:04:27 | Campeonato Brasileiro de Rally Raid 2025 Resultados Oficiais | ACUMULADO ATÉ DIA 4: Currais Novos/RN - Sao Miguel do Gostoso/RN (834.82km) Geral Carros | Penal TOTAL"
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NUM": "304",
+            "PILOTO_INFO": "PEDRO QUEIROLO LAURO SOBREIRA Giaffone Buggy V8 Rmattheis",
+            "(POS)CAT": "(1)UBR",
+            "DIA 1": "03:54:11.00 (1)",
+            "DIA 2": "04:14:22.18 (1)",
+            "DIA 3": "02:45:31.33 (1)",
+            "DIA 4": "02:44:50.61 (1)",
+            "TEMPO": "14:01:12.12",
+            "PENAL BONUS": "00:46:50.00 01:09:07.00",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "13:38:55.12"
+        },
+        {
+            "POS": "2",
+            "NUM": "390",
+            "PILOTO_INFO": "RICARDO MAIA ARTHUR DI PACE Mitsubishi L 200 Triton Cajupi Rally Team",
+            "(POS)CAT": "(1)USP",
+            "DIA 1": "04:41:01.00 (3)",
+            "DIA 2": "04:20:19.43 (2)",
+            "DIA 3": "03:19:06.66 (2)",
+            "DIA 4": "06:26:09.00 (2)",
+            "TEMPO": "16:08:47.09",
+            "PENAL BONUS": "02:37:49.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "18:46:36.09 05:07:40.97"
+        },
+        {
+            "POS": "3",
+            "NUM": "362",
+            "PILOTO_INFO": "GUTEMBERG ROCHA MARCUS CHAGAS Mitsubishi Triton Sport R Accert Competicoes",
+            "(POS)CAT": "(1)STC",
+            "DIA 1": "03:54:11.00 (1)",
+            "DIA 2": "04:34:07.67 (3)",
+            "DIA 3": "04:07:36.09 (3)",
+            "DIA 4": "06:26:09.00 (2)",
+            "TEMPO": "17:08:04.76",
+            "PENAL BONUS": "01:53:59.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "19:02:03.76 05:23:08.64 00:15:27.67"
+        },
+        {
+            "POS": "4",
+            "NUM": "342",
+            "PILOTO_INFO": "FABIO FREIRE DANIEL SOUZA Mitsubishi L 200 Triton Er Cadasso Racing",
+            "(POS)CAT": "(2)USP",
+            "DIA 1": "04:41:01.00 (3)",
+            "DIA 2": "15:00:00.00 (4)",
+            "DIA 3": "12:30:00.00 (4)",
+            "DIA 4": "12:59:12.00 (4)",
+            "TEMPO": "17:47:21.00",
+            "PENAL BONUS": "27:22:52.00 * * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "45:10:13.00 31:31:17.88 26:08:09.24"
+        }
+    ]
+}
