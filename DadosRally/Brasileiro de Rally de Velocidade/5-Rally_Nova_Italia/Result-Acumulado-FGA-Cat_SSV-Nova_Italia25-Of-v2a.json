@@ -1,0 +1,34 @@
+{
+    "CABECALHO": {
+        "EVENTO": "Resultados Oficiais",
+        "CAMPEONATO": "Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025",
+        "RELATORIO": "Categoria: SSV - UTV Production",
+        "DATA_EMISSAO": "ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km)",
+        "STATUS": "Campeonato Gaucho",
+        "CATEGORIA_GERAL": ""
+    },
+    "DADOS": [
+        {
+            "POS": "1",
+            "NO": "37",
+            "PILOTO_INFO": "RODRIGO VARELA (SP)\nMARCO MARINI (RS)\nCan-Am Maverick R\nVarela Can-Am Monster Energy",
+            "COLUNA_4": "",
+            "COLUNA_5": "",
+            "CAT": "(1)SSV",
+            "SS1": "00:07:08.86\n(1)",
+            "SS2": "00:10:13.39\n(1)",
+            "SS3": "00:07:09.28\n(1)",
+            "SS4": "00:10:18.74\n(1)",
+            "COLUNA_11": "",
+            "SS5": "00:06:52.61\n(1)",
+            "SS6": "00:09:44.48\n(1)",
+            "SS7": "00:14:03.12\n(1)",
+            "SS8": "00:13:52.48\n(1)",
+            "COLUNA_16": "",
+            "TEMPO": "01:19:12.88",
+            "COLUNA_18": "",
+            "PENAL": "00:00:10.08\n* * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": "01:19:22.96"
+        }
+    ]
+}

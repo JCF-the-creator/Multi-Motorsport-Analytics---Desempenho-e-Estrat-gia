@@ -1,0 +1,32 @@
+{
+    "CABECALHO": {
+        "EVENTO": "Resultados Oficiais",
+        "CAMPEONATO": "Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025",
+        "RELATORIO": "Categoria: Rally 4",
+        "DATA_EMISSAO": "ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km)",
+        "STATUS": "Campeonato Brasileiro",
+        "CATEGORIA_GERAL": ""
+    },
+    "DADOS": [
+        {
+            "POS": "NC",
+            "NO": "15",
+            "PILOTO_INFO": "LEANDRO BRUSTOLIN (RS)\nANDREY KARPINSKI (RS)\nRenault Clio\nACE/Fly Competition",
+            "COLUNA_4": "",
+            "COLUNA_5": "",
+            "CAT": "(NC)RC4",
+            "SS1": "00:08:01.42\n(1)",
+            "SS2": "",
+            "SS3": "",
+            "SS4": "",
+            "SS5": "",
+            "SS6": "",
+            "SS7": "",
+            "SS8": "",
+            "TEMPO": "",
+            "COLUNA_16": "",
+            "PENAL": "* * *\n* * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": ""
+        }
+    ]
+}

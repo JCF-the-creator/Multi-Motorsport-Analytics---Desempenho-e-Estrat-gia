@@ -1,0 +1,56 @@
+{
+    "CABECALHO": {
+        "EVENTO": "Resultados Oficiais",
+        "CAMPEONATO": "Campeonato Brasileiro e Gaucho de Rally de Velocidade 2025",
+        "RELATORIO": "Categoria: Rally 5 Light",
+        "DATA_EMISSAO": "ACUMULADO ATÉ SS8: SS Odontotop / Mariano Moro 2 - (126.7km)",
+        "STATUS": "Campeonato Brasileiro",
+        "CATEGORIA_GERAL": ""
+    },
+    "DADOS": [
+        {
+            "POS": "NC",
+            "NO": "208",
+            "PILOTO_INFO": "ALEXANDRE MARTINI (RS)\nEVANDRO FRIGO (SC)\nPeugeot 207 HB\nRally Nova Prata",
+            "COLUNA_4": "",
+            "COLUNA_5": "",
+            "CAT": "(NC)R5L",
+            "SS1": "00:08:20.24\n(1)",
+            "SS2": "00:11:37.83\n(1)",
+            "SS3": "00:08:05.60\n(1)",
+            "COLUNA_10": "",
+            "SS4": "00:11:30.63\n(1)",
+            "SS5": "00:08:04.86\n(1)",
+            "SS6": "00:11:34.62\n(1)",
+            "COLUNA_14": "",
+            "SS7": "",
+            "SS8": "",
+            "COLUNA_17": "",
+            "TEMPO": "",
+            "PENAL": "* * *\n* * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": ""
+        },
+        {
+            "POS": "NC",
+            "NO": "44",
+            "PILOTO_INFO": "EDUARDO TONIAL (RS)\nMURILO SPIRONELO (RS)\nPeugeot 206\nACE / Tonial / GTS",
+            "COLUNA_4": "",
+            "COLUNA_5": "",
+            "CAT": "(NC)R5L",
+            "SS1": "00:08:20.91\n(2)",
+            "SS2": "00:11:54.38\n(2)",
+            "SS3": "",
+            "COLUNA_10": "",
+            "SS4": "",
+            "SS5": "",
+            "SS6": "",
+            "COLUNA_14": "",
+            "SS7": "",
+            "SS8": "",
+            "COLUNA_17": "",
+            "TEMPO": "",
+            "PENAL": "* * *\n* * *",
+            "TOTAL DIF.LIDER DIF.ANTERIOR": ""
+        }
+    ]
+}
