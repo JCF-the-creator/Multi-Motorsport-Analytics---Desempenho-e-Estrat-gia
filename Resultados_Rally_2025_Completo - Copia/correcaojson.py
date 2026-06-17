@@ -3,7 +3,6 @@ import json
 import csv
 import pdfplumber
 
-# Pasta onde estão os arquivos originais (PDFs)
 PASTA_ALVO = r"C:\Users\Lucas\Downloads\Resultados_Rally_2025_Completo - Copia"
 
 def limpar_e_validar_valor(valor):
@@ -181,9 +180,9 @@ def main():
                 arquivos_processados += 1
 
     print("\n" + "="*60)
-    print(" 🎉 PROCESSO CONCLUÍDO COM VERIFICAÇÃO INDIVIDUAL!")
-    print(f" -> Arquivos PDF inspecionados folha por folha: {arquivos_processados}")
-    print(" -> Dados nulos ou vazios foram 100% omitidos dos arquivos finais.")
+    print(" 🎉 PROCESSO CONCLUÍDO!")
+    print(f" -> Arquivos PDF inspecionados: {arquivos_processados}")
+    print(" -> Dados nulos ou vazios foram ignorados.")
     print("="*60)
 
 if __name__ == '__main__':
