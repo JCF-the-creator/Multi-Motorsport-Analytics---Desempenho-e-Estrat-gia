@@ -1,1 +1,51 @@
 Pasta criada para guardar os programas referentes a F1
+
+Projeto de análise de dados da Fórmula 1 utilizando Python e Pandas para construir uma camada Gold com métricas de desempenho de pilotos, equipes e corridas.
+
+Os dados são tratados e organizados em um modelo analítico para geração de insights sobre vitórias, pódios, abandono, pit stops, classificação e consistência de voltas.
+
+Estrutura do Projeto
+├── Csv/Dados Utilizados.
+│   ├── circuits.csv
+│   ├── constructors.csv
+│   ├── drivers.csv
+│   ├── races.csv
+│   ├── results.csv
+│   ├── lap_times.csv
+│   ├── pit_stops.csv
+│   ├── qualifying.csv
+│   ├── sprint_results.csv
+│   └── demais arquivos históricos
+│
+├── data/
+│   └── gold/
+│
+├── F1_World_Analytic.ipynb
+└── README.md
+
+#Análises Realizadas
+Ganho médio de posições por piloto
+Vitórias sem largar na pole position
+Taxa de abandono (DNF)
+Ranking de vitórias e pódios
+Conversão de pole position em vitória
+Performance de pit stops por equipe
+Consistência de voltas dos pilotos
+Impacto da classificação nos resultados
+Análise de corridas Sprint
+
+#Tecnologias
+Python
+Pandas
+NumPy
+Jupyter Notebook
+
+#Arquivos Gerados
+
+A camada Gold gera os seguintes datasets(Tratados):
+
+f1_resultados_gold.csv
+f1_pit_stops_gold.csv
+f1_lap_times_gold.csv
+f1_qualifying_gold.csv
+f1_sprint_gold.csv
