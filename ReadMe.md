@@ -312,6 +312,6 @@ Seções disponíveis:
 
 **Lucas Herbet Brito**  
 - GitHub: [github.com/herbertbrito4](github.com/herbertbrito4)
-- LinkedIn: [https://www.linkedin.com/in/lucas-h-brito/](hhttps://www.linkedin.com/in/lucas-h-brito/)
+- LinkedIn: [https://www.linkedin.com/in/lucas-h-brito/](https://www.linkedin.com/in/lucas-h-brito/)
 
 ---
