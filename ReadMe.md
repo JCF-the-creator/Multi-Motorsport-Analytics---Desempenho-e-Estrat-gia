@@ -3,7 +3,7 @@
 **Repositório:** [github.com/JCF-the-creator/Multi_Motorsport_Analytics_Desempenho_e_Estrategia](https://github.com/JCF-the-creator/Multi_Motorsport_Analytics_Desempenho_e_Estrategia)  
 **Dashboard interativo:** [multi-motorsport.lovable.app](https://multi-motorsport.lovable.app/)  
 **Versão:** 1.0 — Executive Edition  
-**Autor:** James Candido Ferreira  
+**Autor:** James Candido Ferreira, Erick Jonathas Lima dos Santos, Matheus Silva, Arlindo Dos Santos Lima, Luan Da Costa e Lucas Herbet Brito
 **Linguagens principais:** Python (97.2% Jupyter Notebook · 2.7% .py) · TypeScript/React (frontend)
 
 ---
